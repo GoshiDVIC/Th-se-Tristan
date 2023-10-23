@@ -1,0 +1,62 @@
+\documentclass[
+	fontsize=13pt, 
+	twoside=false, 
+	numbers=noenddot,
+]{kaobook}
+
+\input{styles/custom_formatting}
+
+% add bibliographies
+\addbibresource{YOURNAME.bib}
+
+
+
+\begin{document}
+
+\frontmatter
+
+
+\input{preface.tex}
+
+%	TABLE OF CONTENTS 
+\begingroup 
+    \let\cleardoublepage\bigskip
+    \let\clearpage\bigskip
+    \setlength{\textheight}{23cm} 
+    \etocstandarddisplaystyle
+    \etocstandardlines
+    \tableofcontents
+    \let\cleardoublepage\bigskip
+    \let\clearpage\bigskip
+\endgroup
+
+%---------------------------------------------------
+
+%	MAIN BODY
+\mainmatter
+\setchapterstyle{kao}
+
+\subimport{YOURNAME/}{YOURNAME-main}
+
+
+%---------------------------------------------------
+
+% BACK BODY
+\backmatter 
+\setchapterstyle{plain} 
+
+\defbibnote{bibnote}{} % Prepend this text to the bibliography
+\printbibliography[heading=bibintoc, title=References, prenote=bibnote] 
+
+\begingroup 
+    \setlength{\textheight}{23cm}
+    \etocstandarddisplaystyle
+    \etocstandardlines
+%    \listoffigures
+    \printglossary[title=Special Terms, toctitle=List of Terms]
+    \printindex
+    \let\cleardoublepage\bigskip
+    \let\clearpage\bigskip
+\endgroup
+
+\end{document}

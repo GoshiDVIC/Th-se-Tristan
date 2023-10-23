@@ -1,0 +1,9 @@
+
+pdflatex -synctex=1 -shell-escape  main.tex
+sed '/\\begingroup/,/\\endgroup/d' main.ptc > main.ptc-used
+cp main.ptc-used main.ptc
+biber main.bcf
+biber main.bcf
+pdflatex -synctex=1 -shell-escape -interaction=nonstopmode main.tex
+cp main.ptc-used main.ptc
+pdflatex -synctex=1 -shell-escape -interaction=nonstopmode main.tex

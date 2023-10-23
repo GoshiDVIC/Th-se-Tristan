@@ -1,0 +1,11 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\babel@toc {english}{}
+\ttl@starttoc {partialTOC@1}
+\contentsline {part}{\numberline {}TITLRE}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1.1}%
+\contentsline {chapter}{\numberline {2}Bla Bla Bla}{4}{chapter.1.2}%
+\contentsline {chapter}{\numberline {3}fsdq fdsq fd q}{5}{chapter.1.3}%
+\contentsline {chapter}{\numberline {4}Conclusion}{6}{chapter.1.4}%
+\ttl@stoptoc {partialTOC@1}
+\contentsfinish
