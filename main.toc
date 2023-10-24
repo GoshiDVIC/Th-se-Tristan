@@ -4,7 +4,34 @@
 \contentsline {part}{\numberline {}Haptics in the service of DIY prostheses}{1}{part.1}%
  \vspace {0.3cm} \hbox { \hspace {2cm} \begin {minipage}{2.5cm} \includegraphics [width=2.5cm]{.jpg} \end {minipage} \hspace {0.5cm} \begin {minipage}{9cm} \relax \fontsize {11.86258pt}{14.23505pt}\selectfont \abovedisplayskip 11.86203pt plus 2.373pt minus 7.11752pt\abovedisplayshortskip 0.0pt plus 3.55876pt\belowdisplayskip 11.86203pt plus 2.373pt minus 7.11752pt\belowdisplayshortskip 7.11752pt plus 3.55876pt minus 3.55876pt\let \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ \leftmargin \leftmargini \topsep 5.19942pt plus 2.60054pt minus 2.60054pt\parsep 2.60054pt plus 1.29944pt minus 1.29944pt\itemsep \parsep \add@extra@listi {sml}\textbf {TRISTAN JOURNEL} - has always been interested in medical engineering and innovation. He was interested in improving the human body and in prostheses. \end {minipage} } \vspace {-1.7cm}
 \contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1.1}%
-\contentsline {chapter}{\numberline {2}Bla Bla Bla}{4}{chapter.1.2}%
-\contentsline {chapter}{\numberline {3}fsdq fdsq fd q}{5}{chapter.1.3}%
-\contentsline {chapter}{\numberline {4}Conclusion}{6}{chapter.1.4}%
+\contentsline {section}{\numberline {1.1}Context}{3}{section.1.1.1}%
+\contentsline {section}{\numberline {1.2}Research Domain}{6}{section.1.1.2}%
+\contentsline {section}{\numberline {1.3}Problem statement}{7}{section.1.1.3}%
+\contentsline {section}{\numberline {1.4}Research approach}{7}{section.1.1.4}%
+\contentsline {section}{\numberline {1.5}Scientific contribution}{8}{section.1.1.5}%
+\contentsline {section}{\numberline {1.6}Structure of the Thesis}{8}{section.1.1.6}%
+\contentsline {chapter}{\numberline {2}Accessibility to technological and medical innovation}{10}{chapter.1.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{10}{section.1.2.1}%
+\contentsline {section}{\numberline {2.2}Related Work}{11}{section.1.2.2}%
+\contentsline {section}{\numberline {2.3}Ethics of Accessibility}{13}{section.1.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Accessibility to Technological Innovation}{13}{subsection.1.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Accessibility to medical Innovation}{15}{subsection.1.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Accessibility to The Prosthetics Field}{18}{subsection.1.2.3.3}%
+\contentsline {section}{\numberline {2.4}Project impact}{20}{section.1.2.4}%
+\contentsline {section}{\numberline {2.5}Conclusion}{22}{section.1.2.5}%
+\contentsline {chapter}{\numberline {3}First Step into the Field of Haptic}{24}{chapter.1.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{24}{section.1.3.1}%
+\contentsline {section}{\numberline {3.2}Related Work}{24}{section.1.3.2}%
+\contentsline {section}{\numberline {3.3}Evaluation}{24}{section.1.3.3}%
+\contentsline {section}{\numberline {3.4}Limitations}{24}{section.1.3.4}%
+\contentsline {section}{\numberline {3.5}Future Works}{25}{section.1.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusion}{25}{section.1.3.6}%
+\contentsline {chapter}{\numberline {4}First Step into the Field of Haptic}{26}{chapter.1.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{26}{section.1.4.1}%
+\contentsline {section}{\numberline {4.2}Related Work}{26}{section.1.4.2}%
+\contentsline {section}{\numberline {4.3}Evaluation}{26}{section.1.4.3}%
+\contentsline {section}{\numberline {4.4}Limitations}{26}{section.1.4.4}%
+\contentsline {section}{\numberline {4.5}Future Works}{27}{section.1.4.5}%
+\contentsline {section}{\numberline {4.6}Conclusion}{27}{section.1.4.6}%
+\contentsline {chapter}{\numberline {5}Conclusion}{28}{chapter.1.5}%
 \contentsfinish
