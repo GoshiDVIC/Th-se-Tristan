@@ -16,5 +16,1482 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{van_middendorp_edwin_2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=44415deb4d3594ce2a59d05700bcd237}{%
+           family={Middendorp},
+           familyi={M\bibinitperiod},
+           given={Joost\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=42a4a56f142799b7aaa0c717118a40dd}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Gonzalo\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7e310a755f3be1114bdaba5b77d8ae97}{%
+           family={Burridge},
+           familyi={B\bibinitperiod},
+           given={Alwyn\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \strng{fullhash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \strng{bibnamehash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \strng{authorbibnamehash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \strng{authornamehash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \strng{authorfullhash}{8082d33ec54ad4c3842bf987035cb2b7}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Dating from the seventeenth century B.C: . the Edwin Smith papyrus is a unique treatise containing the oldest known descriptions of signs and symptoms of injuries of the spinal column and spinal cord. Based on a recent "medically based translation" of the Smith papyrus, its enclosed treasures in diagnostic, prognostic and therapeutic reasoning are revisited. Although patient demographics, diagnostic techniques and therapeutic options considerably changed over time, the documented rationale on spinal injuries can still be regarded as the state-of-the-art reasoning for modern clinical practice.}
+      \field{issn}{1432-0932}
+      \field{journaltitle}{European Spine Journal: Official Publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shorttitle}{The {Edwin} {Smith} papyrus}
+      \field{title}{The {Edwin} {Smith} papyrus: a clinical reappraisal of the oldest known document on spinal injuries}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{1815\bibrangedash 1823}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s00586-010-1523-6
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\2KYJXWKN\\van Middendorp et al. - 2010 - The Edwin Smith papyrus a clinical reappraisal of.pdf:application/pdf
+      \endverb
+      \keyw{Egypt,History,17th Century,Humans,Manuscripts,Medical as Topic,Prognosis,Spinal Injuries}
+    \endentry
+    \entry{zampieri_andreas_2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9ae7986c8826f27b467547acf8ec2a3f}{%
+           family={Zampieri},
+           familyi={Z\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7f5628af4bef7c51196e82caf7910627}{%
+           family={ElMaghawry},
+           familyi={E\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6271ed293bcbd13e0d4f662214f0a11c}{%
+           family={Zanatta},
+           familyi={Z\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=081de7b0c7a2e853f90c9fbac00bfb80}{%
+           family={Thiene},
+           familyi={T\bibinitperiod},
+           given={Gaetano},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0f4f546112986fc5fb86f2740c29b902}
+      \strng{fullhash}{331d0d6041aab26a5fc3a0968015fe75}
+      \strng{bibnamehash}{0f4f546112986fc5fb86f2740c29b902}
+      \strng{authorbibnamehash}{0f4f546112986fc5fb86f2740c29b902}
+      \strng{authornamehash}{0f4f546112986fc5fb86f2740c29b902}
+      \strng{authorfullhash}{331d0d6041aab26a5fc3a0968015fe75}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2305-7823}
+      \field{journaltitle}{Global Cardiology Science and Practice}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{Andreas {Vesalius}}
+      \field{title}{Andreas {Vesalius}: {Celebrating} 500 years of dissecting nature}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{66}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5339/gcsp.2015.66
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\Z3PEIS3J\\Zampieri et al. - 2015 - Andreas Vesalius Celebrating 500 years of dissect.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.qscience.com/doi/10.5339/gcsp.2015.66
+      \endverb
+      \verb{url}
+      \verb http://www.qscience.com/doi/10.5339/gcsp.2015.66
+      \endverb
+    \endentry
+    \entry{noauthor_prosthesis_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In medicine, a prosthesis (PL: prostheses; from Ancient Greek: πρόσθεσις, romanized: prósthesis, lit. 'addition, application, attachment'), or a prosthetic implant, is an artificial device that replaces a missing body part, which may be lost through trauma, disease, or a condition present at birth (congenital disorder). Prostheses are intended to restore the normal functions of the missing body part. Amputee rehabilitation is primarily coordinated by a physiatrist as part of an inter-disciplinary team consisting of physiatrists, prosthetists, nurses, physical therapists, and occupational therapists. Prostheses can be created by hand or with computer-aided design (CAD), a software interface that helps creators design and analyze the creation with computer-generated 2-D and 3-D graphics as well as analysis and optimization tools.}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{10}
+      \field{note}{Page Version ID: 1181407711}
+      \field{title}{Prosthesis}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\Y8AEW33N\\Prosthesis.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Prosthesis&oldid=1181407711
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Prosthesis&oldid=1181407711
+      \endverb
+    \endentry
+    \entry{noauthor_coapt_nodate}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Coapt’s Complete Control myoelectric control technology makes upper-limb prosthetics feel more natural and intuitive. Click here to learn more.}
+      \field{journaltitle}{Coapt Myo Pattern Recognition}
+      \field{title}{Coapt - {Myoelectric} {Pattern} {Recognition} for {Upper} {Limb} {Prostheses}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\583D47IA\\coaptengineering.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://coaptengineering.com/
+      \endverb
+      \verb{url}
+      \verb https://coaptengineering.com/
+      \endverb
+    \endentry
+    \entry{noauthor_psyonic_nodate}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PSYONIC}
+      \field{title}{{PSYONIC}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\IXQYZ6ME\\www.psyonic.io.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.psyonic.io
+      \endverb
+      \verb{url}
+      \verb https://www.psyonic.io
+      \endverb
+    \endentry
+    \entry{noauthor_advanced_nodate}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labeltitlesource}{title}
+      \field{title}{Advanced {Prosthetics} {Made} {Accessible}: {How} {PSYONIC} {Developed} a {Bionic} {Hand} {Using} {Additive} {Manufacturing} | {Formlabs}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Advanced Prosthetics Made Accessible\: How PSYONIC Developed a Bionic Hand Using Additive Manufacturing | Formlabs:C\:\\Users\\tjour\\Zotero\\storage\\8CAEUCDQ\\psyonic-advanced-prosthetics-additive.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://formlabs.com/blog/psyonic-advanced-prosthetics-additive/?utm_source=youtube&utm_medium=social&utm_campaign=yto-psyonic
+      \endverb
+      \verb{url}
+      \verb https://formlabs.com/blog/psyonic-advanced-prosthetics-additive/?utm_source=youtube&utm_medium=social&utm_campaign=yto-psyonic
+      \endverb
+    \endentry
+    \entry{noauthor_new_nodate}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{New advances for haptic rendering: state of the art | {SpringerLink}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb New advances for haptic rendering\: state of the art | SpringerLink:C\:\\Users\\tjour\\Zotero\\storage\\5MCM6JPE\\s00371-016-1324-y.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s00371-016-1324-y
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s00371-016-1324-y
+      \endverb
+    \endentry
+    \entry{interhaptics_haptics_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1c2ffefda48cda1c413613ffff15d7c1}{%
+           family={Interhaptics},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \strng{fullhash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \strng{bibnamehash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \strng{authorbibnamehash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \strng{authornamehash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \strng{authorfullhash}{1c2ffefda48cda1c413613ffff15d7c1}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The haptics market is growing very fast and is one of the most promising among the new technologies. However, the user experience hasn’t…}
+      \field{journaltitle}{Nerd For Tech}
+      \field{month}{6}
+      \field{shorttitle}{Haptics for {Mobile}}
+      \field{title}{Haptics for {Mobile}: the best practices for {Android} and {iOS}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\YEUZF5P5\\haptics-for-mobile-the-best-practices-for-android-and-ios-d2aa72409bdd.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://medium.com/nerd-for-tech/haptics-for-mobile-the-best-practices-for-android-and-ios-d2aa72409bdd
+      \endverb
+      \verb{url}
+      \verb https://medium.com/nerd-for-tech/haptics-for-mobile-the-best-practices-for-android-and-ios-d2aa72409bdd
+      \endverb
+    \endentry
+    \entry{noauthor_whats_nodate}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With its new console, Sony has taken the lead in terms of gaming experience thanks to the haptic technologies integrated into its controller. We decided to do a deep-dive analysis of the DualSense controller haptics within the Playstation 5 ecosystem. This article focus on a teardown of the controller and an analysis of the tactile technologies integrated in.}
+      \field{title}{What’s under the hood of the {DualSense}?}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\5RN5DIEB\\whats-under-the-hood-of-the-dualsense.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.actronika.com/post/whats-under-the-hood-of-the-dualsense
+      \endverb
+      \verb{url}
+      \verb https://www.actronika.com/post/whats-under-the-hood-of-the-dualsense
+      \endverb
+    \endentry
+    \entry{noauthor_skinetic_nodate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Skinetic, our new haptic suit integrating the most advanced vibrotactile haptic technology for Virtual Realities.}
+      \field{title}{Skinetic by {Actronika}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.skinetic.actronika.com/
+      \endverb
+      \verb{url}
+      \verb https://www.skinetic.actronika.com/
+      \endverb
+    \endentry
+    \entry{service_new_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bebaf3ef50db506d21fdcfe9497c1dd1}{%
+           family={Service},
+           familyi={S\bibinitperiod},
+           given={Purdue\bibnamedelima News},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \strng{fullhash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \strng{bibnamehash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \strng{authorbibnamehash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \strng{authornamehash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \strng{authorfullhash}{bebaf3ef50db506d21fdcfe9497c1dd1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purdue University researchers have developed a new flexible and translucent base for silicon nanoneedle patches to deliver exact doses of biomolecules directly into cells and expand observational opportunities.}
+      \field{title}{New flexible, transparent, wearable bio-patch, improves cellular observation, drug delivery}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\7VDXUERA\\new-flexible,-transparent,-wearable-bio-patch,-improves-cellular-observation,-drug-delivery.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.purdue.edu/newsroom/releases/2018/Q4/new-flexible,-transparent,-wearable-bio-patch,-improves-cellular-observation,-drug-delivery.html
+      \endverb
+      \verb{url}
+      \verb https://www.purdue.edu/newsroom/releases/2018/Q4/new-flexible,-transparent,-wearable-bio-patch,-improves-cellular-observation,-drug-delivery.html
+      \endverb
+    \endentry
+    \entry{noauthor_mending_2020}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{abstract}{3D printed ‘mini hearts’ might be the answer to Australia’s greatest health challenge}
+      \field{journaltitle}{University of Technology Sydney}
+      \field{month}{11}
+      \field{title}{Mending broken hearts}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\92EV9WYJ\\mending-broken-hearts.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.uts.edu.au/partners-and-community/alumni-and-supporters/alumni/tower/stay-connected/mending-broken-hearts
+      \endverb
+      \verb{url}
+      \verb https://www.uts.edu.au/partners-and-community/alumni-and-supporters/alumni/tower/stay-connected/mending-broken-hearts
+      \endverb
+    \endentry
+    \entry{keates_effect_2005}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=eca8a06e1c2777f0ecd414dccc214e21}{%
+           family={Keates},
+           familyi={K\bibinitperiod},
+           given={Simeon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ea3f9fdb14471d253989bf3b2686d97c}{%
+           family={Trewin},
+           familyi={T\bibinitperiod},
+           given={Shari},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{0ace6d264e458d5872cc2838ecab151c}
+      \strng{fullhash}{0ace6d264e458d5872cc2838ecab151c}
+      \strng{bibnamehash}{0ace6d264e458d5872cc2838ecab151c}
+      \strng{authorbibnamehash}{0ace6d264e458d5872cc2838ecab151c}
+      \strng{authornamehash}{0ace6d264e458d5872cc2838ecab151c}
+      \strng{authorfullhash}{0ace6d264e458d5872cc2838ecab151c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Point-and-click tasks are known to present difficulties to users with physical impairments, particularly motor- or vision-based, and to older adults. This paper presents the results of a study to quantify and understand the effects of age and impairment on the ability to perform such tasks. Results from four separate user groups are presented and compared using metrics that describe the features of the movements made. Distinct differences in behaviour between all of the user groups are observed and the reasons for those differences are discussed.}
+      \field{booktitle}{Proceedings of the 7th international {ACM} {SIGACCESS} conference on {Computers} and accessibility}
+      \field{isbn}{978-1-59593-159-7}
+      \field{month}{10}
+      \field{series}{Assets '05}
+      \field{title}{Effect of age and {Parkinson}'s disease on cursor positioning using a mouse}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{68\bibrangedash 75}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1090785.1090800
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1090785.1090800
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1090785.1090800
+      \endverb
+      \keyw{age,cursor,cursor positioning tasks,disability,mouse,performance measurement}
+    \endentry
+    \entry{trewin_automating_2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ea3f9fdb14471d253989bf3b2686d97c}{%
+           family={Trewin},
+           familyi={T\bibinitperiod},
+           given={Shari},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \strng{fullhash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \strng{bibnamehash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \strng{authorbibnamehash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \strng{authornamehash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \strng{authorfullhash}{ea3f9fdb14471d253989bf3b2686d97c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{People with motor disabilities may need to adjust the configuration of their input devices, but often find this an obscure and difficult process. The Dynamic Keyboard exemplifies a potential solution. It continuously adjusts fundamental keyboard accessibility features to suit the requirements of the current user, based on a keyboard use model. Early field results indicate that users have not chosen to take control of these accessibility features from the Dynamic Keyboard, and that a variety of settings are being used. A more detailed ongoing study suggests that automatic adjustment of the key repeat delay feature is acceptable to users, while the debounce feature may not be appropriate for dynamic adjustment.}
+      \field{issn}{1558-2337}
+      \field{journaltitle}{ACM SIGACCESS Accessibility and Computing}
+      \field{month}{9}
+      \field{number}{77-78}
+      \field{shorttitle}{Automating accessibility}
+      \field{title}{Automating accessibility: the dynamic keyboard}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{71\bibrangedash 78}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1029014.1028644
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1029014.1028644
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1029014.1028644
+      \endverb
+      \keyw{acessibility,configuration,keyboards,self-adapting systems}
+    \endentry
+    \entry{noauthor_developing_nodate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Developing steady clicks: | {Proceedings} of the 8th international {ACM} {SIGACCESS} conference on {Computers} and accessibility}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Developing steady clicks\: | Proceedings of the 8th international ACM SIGACCESS conference on Computers and accessibility:C\:\\Users\\tjour\\Zotero\\storage\\KMAVXWI6\\1168987.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/abs/10.1145/1168987.1168993
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/abs/10.1145/1168987.1168993
+      \endverb
+    \endentry
+    \entry{noauthor_physical_nodate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Physical accessibility of touchscreen smartphones | {Proceedings} of the 15th {International} {ACM} {SIGACCESS} {Conference} on {Computers} and {Accessibility}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Physical accessibility of touchscreen smartphones | Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility:C\:\\Users\\tjour\\Zotero\\storage\\Q7EG2GMS\\2513383.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/abs/10.1145/2513383.2513446
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/abs/10.1145/2513383.2513446
+      \endverb
+    \endentry
+    \entry{noauthor_sensitive_nodate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensitive and {Energetic} {IoT} {Access} {Control} for {Managing} {Cloud} {Electronic} {Health} {Records} | {IEEE} {Journals} \& {Magazine} | {IEEE} {Xplore}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Sensitive and Energetic IoT Access Control for Managing Cloud Electronic Health Records | IEEE Journals & Magazine | IEEE Xplore:C\:\\Users\\tjour\\Zotero\\storage\\8VPNYT2J\\8753502.html:text/html;Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\SP5QF7XB\\Sensitive and Energetic IoT Access Control for Man.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8753502
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8753502
+      \endverb
+    \endentry
+    \entry{vatari_green_2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=24ab2cdea45433fc7a383f92c5945b51}{%
+           family={Vatari},
+           familyi={V\bibinitperiod},
+           given={Sheetal},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4fa0e1f6d5d0451b11142571de73c868}{%
+           family={Bakshi},
+           familyi={B\bibinitperiod},
+           given={Aarti},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5bd3037550c4e91331d683a882827472}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Tanvi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d01739694346fe59acf861a827c0b03}
+      \strng{fullhash}{9d01739694346fe59acf861a827c0b03}
+      \strng{bibnamehash}{9d01739694346fe59acf861a827c0b03}
+      \strng{authorbibnamehash}{9d01739694346fe59acf861a827c0b03}
+      \strng{authornamehash}{9d01739694346fe59acf861a827c0b03}
+      \strng{authorfullhash}{9d01739694346fe59acf861a827c0b03}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Thereare many techniques available for the precision agriculture to monitor and control, environment for the growth of many crops. Due to unequal distribution of rain water, it is very difficult to requirement needed farmer to manage the water equally to all the crops in whole farm it requires some irrigation method that suitable for any weather condition, soil types and variety of crops. Green House is the best solution to control and mange all this problem It is more important to search a method that gives perfect analyzation and controlling to develop proper environment. Large areas covered by sensor network this can establish greenhouse with precision environment required for different crops. This environment builds up by using two technologies it and cloud computing. By using IOT(Internet on things) we control devices or any environmental needs anytime, anywhere and the cloud which provides storage and computing resources to implement a web page.}
+      \field{booktitle}{2016 {IEEE} {International} {Conference} on {Recent} {Trends} in {Electronics}, {Information} \& {Communication} {Technology} ({RTEICT})}
+      \field{month}{5}
+      \field{title}{Green house by using {IOT} and cloud computing}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{246\bibrangedash 250}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/RTEICT.2016.7807821
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7807821
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7807821
+      \endverb
+    \endentry
+    \entry{kamilaris_agri-iot_2016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=eb16d14d23f09fd1365230c0230110f7}{%
+           family={Kamilaris},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8c5bb9f8ba6ff0df0521ea75cae9bda}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3fee0dc835b4fbcc7ca0e6c8b9076828}{%
+           family={Prenafeta-Boldu},
+           familyi={P\bibinithyphendelim B\bibinitperiod},
+           given={Francesc\bibnamedelima X.},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=46da789b64ffae1930e91a239b269e33}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Intizar},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{77c4a23614e916bd4e67f76a3e39d26f}
+      \strng{fullhash}{bb48f234f6a76c4ce7a6bd9563efa765}
+      \strng{bibnamehash}{77c4a23614e916bd4e67f76a3e39d26f}
+      \strng{authorbibnamehash}{77c4a23614e916bd4e67f76a3e39d26f}
+      \strng{authornamehash}{77c4a23614e916bd4e67f76a3e39d26f}
+      \strng{authorfullhash}{bb48f234f6a76c4ce7a6bd9563efa765}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{With the recent advancement of the Internet of Things (IoT), it is now possible to process a large number of sensor data streams using different large-scale IoT platforms. These IoT frameworks are used to collect, process and analyse data streams in real-time and facilitate provision of smart solutions designed to provide decision support. Existing IoT-based solutions are mainly domain-dependent, providing stream processing and analytics focusing on specific areas (smart cities, healthcare etc.). In the context of agri-food industry, a variety of external parameters belonging to different domains (e.g. weather conditions, regulations etc.) have a major influence over the food supply chain, while flexible and adaptive IoT frameworks, essential to truly realize the concept of smart farming, are currently inexistent. In this paper, we propose Agri-IoT, a semantic framework for IoT-based smart farming applications, which supports reasoning over various heterogeneous sensor data streams in real-time. Agri-IoT can integrate multiple cross-domain data streams, providing a complete semantic processing pipeline, offering a common framework for smart farming applications. Agri-IoT supports large-scale data analytics and event detection, ensuring seamless interoperability among sensors, services, processes, operations, farmers and other relevant actors, including online information sources and linked open datasets and streams available on the Web.}
+      \field{booktitle}{2016 {IEEE} 3rd {World} {Forum} on {Internet} of {Things} ({WF}-{IoT})}
+      \field{month}{12}
+      \field{shorttitle}{Agri-{IoT}}
+      \field{title}{Agri-{IoT}: {A} semantic framework for {Internet} of {Things}-enabled smart farming applications}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{442\bibrangedash 447}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/WF-IoT.2016.7845467
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7845467
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7845467
+      \endverb
+    \endentry
+    \entry{noauthor_les_nodate}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Les meilleurs {IoT} agricole - {SMAG}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://smag.tech/blog/meilleurs-iot/
+      \endverb
+      \verb{url}
+      \verb https://smag.tech/blog/meilleurs-iot/
+      \endverb
+    \endentry
+    \entry{morris_ai_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5283a53c5c081c04252a659743f886e1}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Meredith\bibnamedelima Ringel},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5283a53c5c081c04252a659743f886e1}
+      \strng{fullhash}{5283a53c5c081c04252a659743f886e1}
+      \strng{bibnamehash}{5283a53c5c081c04252a659743f886e1}
+      \strng{authorbibnamehash}{5283a53c5c081c04252a659743f886e1}
+      \strng{authornamehash}{5283a53c5c081c04252a659743f886e1}
+      \strng{authorfullhash}{5283a53c5c081c04252a659743f886e1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A discussion of ethical considerations.}
+      \field{issn}{0001-0782, 1557-7317}
+      \field{journaltitle}{Communications of the ACM}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{{AI} and accessibility}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{63}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{35\bibrangedash 37}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1145/3356727
+      \endverb
+      \verb{file}
+      \verb Version soumise:C\:\\Users\\tjour\\Zotero\\storage\\YRZALESX\\Morris - 2020 - AI and accessibility.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3356727
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3356727
+      \endverb
+    \endentry
+    \entry{noauthor_comment_2020}{misc}{}
+      \list{language}{1}{%
+        {fr}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bienvenue dans un monde où le gouvernement sait dans quelles villes vous êtes allés, avec qui vous avez voyagé en train – et même quels films vous avez vu au cinéma.}
+      \field{journaltitle}{Amnesty International}
+      \field{month}{4}
+      \field{title}{Comment la {Chine} se sert de la technologie pour lutter contre le {COVID}-19 – et renforcer son contrôle de la population}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.amnesty.org/fr/latest/news/2020/04/how-china-used-technology-to-combat-covid-19-and-tighten-its-grip-on-citizens/
+      \endverb
+      \verb{url}
+      \verb https://www.amnesty.org/fr/latest/news/2020/04/how-china-used-technology-to-combat-covid-19-and-tighten-its-grip-on-citizens/
+      \endverb
+    \endentry
+    \entry{noauthor_complicated_nodate}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{The complicated truth about {China}'s social credit system | {WIRED} {UK}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wired.co.uk/article/china-social-credit-system-explained
+      \endverb
+      \verb{url}
+      \verb https://www.wired.co.uk/article/china-social-credit-system-explained
+      \endverb
+    \endentry
+    \entry{initiative_wai_introduction_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e0ff9daeeaf285cb57b5404b82b6493c}{%
+           family={Initiative\bibnamedelima (WAI)},
+           familyi={I\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={W3C\bibnamedelimb Web\bibnamedelima Accessibility},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \strng{fullhash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \strng{bibnamehash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \strng{authorbibnamehash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \strng{authornamehash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \strng{authorfullhash}{e0ff9daeeaf285cb57b5404b82b6493c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Accessibility resources free online from the international standards organization: W3C Web Accessibility Initiative (WAI).}
+      \field{journaltitle}{Web Accessibility Initiative (WAI)}
+      \field{title}{Introduction à l’accessibilité du web}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/WAI/fundamentals/accessibility-intro/fr
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/WAI/fundamentals/accessibility-intro/fr
+      \endverb
+    \endentry
+    \entry{trewin_accessibility_2010}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=ea3f9fdb14471d253989bf3b2686d97c}{%
+           family={Trewin},
+           familyi={T\bibinitperiod},
+           given={Shari},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b0b3914c624920d6cfe1de076ebdedcf}{%
+           family={Cragun},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c2d429f4e5e4614b11b61648265bbe93}{%
+           family={Swart},
+           familyi={S\bibinitperiod},
+           given={Cal},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7ad2d12ef2cdf5616cc5b1691a83ebd0}{%
+           family={Brezin},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6ce8dfac7bb5c8c619a3476b673cc30}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Raleigh North Carolina}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f2e67ce0067059f1d76cf2cc69bf9b1d}
+      \strng{fullhash}{0cc7b97754244eba2c25adf887223a48}
+      \strng{bibnamehash}{f2e67ce0067059f1d76cf2cc69bf9b1d}
+      \strng{authorbibnamehash}{f2e67ce0067059f1d76cf2cc69bf9b1d}
+      \strng{authornamehash}{f2e67ce0067059f1d76cf2cc69bf9b1d}
+      \strng{authorfullhash}{0cc7b97754244eba2c25adf887223a48}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Proceedings of the 2010 {International} {Cross} {Disciplinary} {Conference} on {Web} {Accessibility} ({W4A})}
+      \field{isbn}{978-1-4503-0045-2}
+      \field{month}{4}
+      \field{shorttitle}{Accessibility challenges and tool features}
+      \field{title}{Accessibility challenges and tool features: an {IBM} {Web} developer perspective}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1805986.1806029
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1805986.1806029
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1805986.1806029
+      \endverb
+    \endentry
+    \entry{noauthor_exploring_nodate}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Exploring national human resource profile and trends of {Prosthetists}/{Orthotists} in {South} {Africa} from 2002 to 2018 - {PMC}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480577/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480577/
+      \endverb
+    \endentry
+    \entry{hanson_lancet_2022}{article}{}
+      \name{author}{23}{}{%
+        {{hash=a872832fcd8d885a6e044d79caab96bf}{%
+           family={Hanson},
+           familyi={H\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod}}}%
+        {{hash=94aad1ffb1afb0e72b455b5f4215d712}{%
+           family={Brikci},
+           familyi={B\bibinitperiod},
+           given={Nouria},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1cbf68d616ecc4552d212cccac072c9d}{%
+           family={Erlangga},
+           familyi={E\bibinitperiod},
+           given={Darius},
+           giveni={D\bibinitperiod}}}%
+        {{hash=437d4388ed2cc1a75af3cba4d81fc6df}{%
+           family={Alebachew},
+           familyi={A\bibinitperiod},
+           given={Abebe},
+           giveni={A\bibinitperiod}}}%
+        {{hash=689c5912b3eb19c7f7b33d8bc7dbf10d}{%
+           family={Allegri},
+           familyi={A\bibinitperiod},
+           given={Manuela\bibnamedelima De},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5be2bffff9002e6605b86ded3739dd68}{%
+           family={Balabanova},
+           familyi={B\bibinitperiod},
+           given={Dina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=60ef852bbc48a9c0c7b0a09a67198540}{%
+           family={Blecher},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=63baab0b9a6d71a6f65535323dfad888}{%
+           family={Cashin},
+           familyi={C\bibinitperiod},
+           given={Cheryl},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fc4b48feb265f0825afe7f1d31fc2567}{%
+           family={Hipgrave},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=750658bc69620965c0a3f12a2807c9f0}{%
+           family={Kalisa},
+           familyi={K\bibinitperiod},
+           given={Ina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=316d715bad9dde7f4a764f199da0e940}{%
+           family={Kurowski},
+           familyi={K\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e5d0caa13405e5ffd1a1c5711951b7ec}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Qingyue},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=9e142d24b7c7fe4199234dadc866c1d2}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=559f42760769afec1794ddb3fea5fa7f}{%
+           family={Mtei},
+           familyi={M\bibinitperiod},
+           given={Gemini},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4273efc14e06a9f2710101933a55b7af}{%
+           family={Nolte},
+           familyi={N\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod}}}%
+        {{hash=97503153930bc0734b73f0b74dd4e9cf}{%
+           family={Onoka},
+           familyi={O\bibinitperiod},
+           given={Chima},
+           giveni={C\bibinitperiod}}}%
+        {{hash=27ce36daf85c04a5f4e0318ed887d9a4}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=760087f3d4ba509ff490312ce5b671b8}{%
+           family={Roland},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=58f9c253233ea6cd0d5f1ebfffa1525c}{%
+           family={Sadanandan},
+           familyi={S\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cee9677feb4fd8dec12f0a311f56e872}{%
+           family={Stenberg},
+           familyi={S\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=26bcfc64b9708b6527310dfa9cec677a}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Jeanette\bibnamedelima Vega},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=6b170f4c37010a14987a849eab01fe7b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=35d4b87bc72e04302dd8603206789933}{%
+           family={Wurie},
+           familyi={W\bibinitperiod},
+           given={Haja},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{3d278a8eec38500b932d7521881c8832}
+      \strng{fullhash}{93c7474d11d1e7f3b587b0ed480a4929}
+      \strng{bibnamehash}{3d278a8eec38500b932d7521881c8832}
+      \strng{authorbibnamehash}{3d278a8eec38500b932d7521881c8832}
+      \strng{authornamehash}{3d278a8eec38500b932d7521881c8832}
+      \strng{authorfullhash}{93c7474d11d1e7f3b587b0ed480a4929}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Lancet} {Global} {Health} {Commissions}}
+      \field{volume}{10}
+      \field{year}{2022}
+      \verb{file}
+      \verb Hanson et al. - 2022 - The Lancet Global Health Commissions.pdf:C\:\\Users\\tjour\\Zotero\\storage\\DQVUJ92M\\Hanson et al. - 2022 - The Lancet Global Health Commissions.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{noauthor_fragility_nodate}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Fragility} of {Legitimacy}: {Access} to {Health} {Care} in {Manantali}, {Mali} | {SpringerLink}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/978-3-031-25592-2_4
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/978-3-031-25592-2_4
+      \endverb
+    \endentry
+    \entry{eide_assistive_2009}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=2cc498c72d332785f7f46422b20943d9}{%
+           family={Eide},
+           familyi={E\bibinitperiod},
+           given={Arne\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cb177a9a6370ac3e6aa5c9ab33e44a7d}{%
+           family={Øderud},
+           familyi={Ø\bibinitperiod},
+           given={Tone},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0e9a8044ae23c44750472ab92f3fad44}{%
+           family={Maclachlan},
+           familyi={M\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+        {{hash=906699663fb135e0f05d0062ecd3839b}{%
+           family={Swartz},
+           familyi={S\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{fullhash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{bibnamehash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{authorbibnamehash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{authornamehash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{authorfullhash}{5caa021172f206d2e1b2b0f6bc776104}
+      \strng{editorbibnamehash}{ff65025154d63c2ac0326115f57cb4ec}
+      \strng{editornamehash}{ff65025154d63c2ac0326115f57cb4ec}
+      \strng{editorfullhash}{ff65025154d63c2ac0326115f57cb4ec}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{World Health Organization (WHO) has estimated that 10\% of the global population has a disability, with social educational and/or economical consequences. Although such estimates have a weak basis (Metts, 2000; Eide and Loeb, 2006a) it might be about 600 million people around the world with special needs in terms of health care, education, rehabilitation, appropriate assistive devices and social support. Furthermore it is indicated that 80\% of people with disabilities live in low-income countries and also in very poor life conditions with limited access to health care services, rehabilitation and assistive devices. Case studies in developing countries show that higher disability rates are associated with higher rates of illiteracy, poor nutritional status, lower immunization coverage, lower birth weight, higher rates of unemployment and underemployment, and lower occupational mobility (Elwan, 1999). Disability can cause poverty by preventing the full participation of persons with disabilities in the economic and social life of their communities, especially if the appropriate supports and accommodations are not available. This chapter draws on results from recent studies on living conditions among people with disabilities in southern Africa (Eide et al. 2003a, b; Loeb and Eide, 2004; Eide and Loeb, 2006b) and aims at describing the situation for disabled people in low-income contexts with regards to assistive technology.}
+      \field{booktitle}{Disability \& {International} {Development}: {Towards} {Inclusive} {Global} {Health}}
+      \field{isbn}{978-0-387-93840-0}
+      \field{title}{Assistive {Technology} in {Low}-{Income} {Countries}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{149\bibrangedash 160}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-0-387-93840-0_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-0-387-93840-0_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-0-387-93840-0_10
+      \endverb
+      \keyw{Assistive Device,Assistive Technology,Disable People,Pressure Sore,Service Delivery System}
+    \endentry
+    \entry{noauthor_provision_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{Provision of prosthetic and orthotic services in low-income countries: {A} review of the literature - {Colette} {S} {Harkins}, {Anthony} {McGarry}, {Arjan} {Buis}, 2013}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/full/10.1177/0309364612470963
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/full/10.1177/0309364612470963
+      \endverb
+    \endentry
+    \entry{noauthor_lindicateur_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{L’indicateur d’accessibilité potentielle localisée ({APL}) | {Direction} de la recherche, des études, de l'évaluation et des statistiques}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/lindicateur-daccessibilite-potentielle-localisee-apl
+      \endverb
+      \verb{url}
+      \verb https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/lindicateur-daccessibilite-potentielle-localisee-apl
+      \endverb
+    \endentry
+    \entry{noauthor_are_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{Are {Patents} {Impeding} {Medical} {Care} and {Innovation}? | {PLOS} {Medicine}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000208
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000208
+      \endverb
+    \endentry
+    \entry{noauthor_public_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{Public satisfaction with health care system in 30 countries: {The} effects of individual characteristics and social contexts - {ScienceDirect}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0168851021002062
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0168851021002062
+      \endverb
+    \endentry
+    \entry{dia_projet_nodate}{article}{}
+      \name{author}{1}{}{%
+        {{hash=561fc00014185ec259c82f52d325d7cf}{%
+           family={Dia},
+           familyi={D\bibinitperiod},
+           given={Amina\bibnamedelima Fefe},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{561fc00014185ec259c82f52d325d7cf}
+      \strng{fullhash}{561fc00014185ec259c82f52d325d7cf}
+      \strng{bibnamehash}{561fc00014185ec259c82f52d325d7cf}
+      \strng{authorbibnamehash}{561fc00014185ec259c82f52d325d7cf}
+      \strng{authornamehash}{561fc00014185ec259c82f52d325d7cf}
+      \strng{authorfullhash}{561fc00014185ec259c82f52d325d7cf}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Projet de stratégie mondiale pour la santé numérique 2020-2025}
+      \verb{file}
+      \verb Dia - Projet de stratégie mondiale pour la santé numériq.pdf:C\:\\Users\\tjour\\Zotero\\storage\\D9V93HQW\\Dia - Projet de stratégie mondiale pour la santé numériq.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{noauthor_covid-19_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{{COVID}-19, {IP} and access: {Will} the current system of medical innovation and access to medicines meet global expectations? - {Olga} {Gurgula}, {Wen} {H} {Lee}, 2021}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/full/10.1177/1741134321993182
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/full/10.1177/1741134321993182
+      \endverb
+    \endentry
+    \entry{noauthor_experiences_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{Experiences of providing prosthetic and orthotic services in {Sierra} {Leone} – the local staff’s perspective: {Disability} and {Rehabilitation}: {Vol} 34, {No} 24}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.3109/09638288.2012.667501
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.3109/09638288.2012.667501
+      \endverb
+    \endentry
+    \entry{mitka_advocates_2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=02d74d461a8eb34b3f118975c19b9adf}{%
+           family={Mitka},
+           familyi={M\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{02d74d461a8eb34b3f118975c19b9adf}
+      \strng{fullhash}{02d74d461a8eb34b3f118975c19b9adf}
+      \strng{bibnamehash}{02d74d461a8eb34b3f118975c19b9adf}
+      \strng{authorbibnamehash}{02d74d461a8eb34b3f118975c19b9adf}
+      \strng{authornamehash}{02d74d461a8eb34b3f118975c19b9adf}
+      \strng{authorfullhash}{02d74d461a8eb34b3f118975c19b9adf}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1538-3598}
+      \field{journaltitle}{JAMA}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{Advocates seek better insurance coverage for amputees needing limb prostheses}
+      \field{volume}{299}
+      \field{year}{2008}
+      \field{pages}{2138\bibrangedash 2140}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1001/jama.299.18.2138
+      \endverb
+      \keyw{Amputees,Artificial Limbs,Humans,Insurance,Health,United States}
+    \endentry
+    \entry{etter_prescription_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5c71f84c3538038be8d746a1da52bd64}{%
+           family={Etter},
+           familyi={E\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8ab1fbabee573709fec509abda74c1c5}{%
+           family={Borgia},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dd624f9e4de257deb7f567a7537be6fb}{%
+           family={Resnik},
+           familyi={R\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \strng{fullhash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \strng{bibnamehash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \strng{authorbibnamehash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \strng{authornamehash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \strng{authorfullhash}{f85cc62d5ab9b4ac2248b061f87da082}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1748-3107, 1748-3115}
+      \field{journaltitle}{Disability and Rehabilitation: Assistive Technology}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shorttitle}{Prescription and repair rates of prosthetic limbs in the {VA} healthcare system}
+      \field{title}{Prescription and repair rates of prosthetic limbs in the {VA} healthcare system: implications for national prosthetic parity}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{493\bibrangedash 500}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3109/17483107.2014.921246
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.3109/17483107.2014.921246
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.3109/17483107.2014.921246
+      \endverb
+    \endentry
+    \entry{ranabhat_sustainable_2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=99cb206b5c99db4dea0e0a66e45756e1}{%
+           family={Ranabhat},
+           familyi={R\bibinitperiod},
+           given={Chhabi\bibnamedelima Lal},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=57dd05157a3d99a51e862fb75c709433}{%
+           family={Jakovljevic},
+           familyi={J\bibinitperiod},
+           given={Mihajlo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \strng{fullhash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \strng{bibnamehash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \strng{authorbibnamehash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \strng{authornamehash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \strng{authorfullhash}{f25fa61f4f5a2e2dcfafd0f557030b32}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Quality health care is an essential human right, on the agenda of sustainable development and presents a challenge in the twenty-first century. There are different perspectives regarding the price and quality of health care, and it is necessary to review the quality health care issue and how it influenced by price. The aim of this study is to explore the different dimensions of health care quality, examine the association with technology, health care market characteristics, additional and optional services of health care, sustainability, and some exceptional situations. We performed the narrative review searching by key words by main search engine Google and followed by their mother publication and or any first web database. We found that health care is a service industry, needs basic standards and specialized human resources to perform the procedure, and quality health care is not associated with an extra price. The quality of health care assures sustainability. Likewise, there are some additional choices during certain procedures, and those may have different price options and would be linked with quality. So, those optional health care and basic health need to define separately.}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{Sustainability}
+      \field{month}{1}
+      \field{note}{Number: 2 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{2}
+      \field{shorttitle}{Sustainable {Health} {Care} {Provision} {Worldwide}}
+      \field{title}{Sustainable {Health} {Care} {Provision} {Worldwide}: {Is} {There} a {Necessary} {Trade}-{Off} between {Cost} and {Quality}?}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1372}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su15021372
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\tjour\\Zotero\\storage\\2XUHD2HK\\Ranabhat et Jakovljevic - 2023 - Sustainable Health Care Provision Worldwide Is Th.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/15/2/1372
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/15/2/1372
+      \endverb
+      \keyw{additional health care,health care,health care market,price,quality,sustainability}
+    \endentry
+    \entry{noauthor_who_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Contents: Part 1. Standards; Part 2. Implementation manual}
+      \field{title}{{WHO} standards for prosthetics and orthotics}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/publications-detail-redirect/9789241512480
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/publications-detail-redirect/9789241512480
+      \endverb
+    \endentry
+    \entry{noauthor_promouvoir_nodate}{article}{}
+      \list{language}{1}{%
+        {fr}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{title}{Promouvoir l’accès aux technologies médicales et l’innovation}
+      \verb{file}
+      \verb 9789242504873_fre.pdf:C\:\\Users\\tjour\\Zotero\\storage\\WDMY3VJ8\\9789242504873_fre.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{noauthor_access_nodate}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{title}{Access to prosthetic devices in developing countries: {Pathways} and challenges | {IEEE} {Conference} {Publication} | {IEEE} {Xplore}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Access to prosthetic devices in developing countries\: Pathways and challenges | IEEE Conference Publication | IEEE Xplore:C\:\\Users\\tjour\\Zotero\\storage\\YZXA2EYB\\7343953.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7343953
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7343953
+      \endverb
+    \endentry
+    \entry{noauthor_why_nodate}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labeltitlesource}{title}
+      \field{title}{Why {Limbs} - {LIMBS} {INTERNATIONAL}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Why Limbs - LIMBS INTERNATIONAL:C\:\\Users\\tjour\\Zotero\\storage\\CD73ZD7K\\why-limbs.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.limbsinternational.org/why-limbs.html
+      \endverb
+      \verb{url}
+      \verb https://www.limbsinternational.org/why-limbs.html
+      \endverb
+    \endentry
+    \entry{gulrez_hands-free_2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c2c1ea5a6a6d47fd4d60a7a0e8c2beeb}{%
+           family={Gulrez},
+           familyi={G\bibinitperiod},
+           given={Tauseef},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f9121d9978350fc0a0526de4b0eba9a9}{%
+           family={Tognetti},
+           familyi={T\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f6ad70d9c6d384e7bee0d50d7388f902}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Woon\bibnamedelima Jong},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7e8d5166203dff63c4bad2f3ac9e1ed9}{%
+           family={Kavakli},
+           familyi={K\bibinitperiod},
+           given={Manolya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c189160715c61ccbe5342c971fdb2623}{%
+           family={Cabibihan},
+           familyi={C\bibinitperiod},
+           given={John-John},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{828908cfb347fb8820c786a8bd788260}
+      \strng{fullhash}{90b5755a3d9d810f43340cf80d3ca22f}
+      \strng{bibnamehash}{828908cfb347fb8820c786a8bd788260}
+      \strng{authorbibnamehash}{828908cfb347fb8820c786a8bd788260}
+      \strng{authornamehash}{828908cfb347fb8820c786a8bd788260}
+      \strng{authorfullhash}{90b5755a3d9d810f43340cf80d3ca22f}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper focuses on how to provide mobility to people with motor impairments with the integration of robotics and wearable computing systems. The burden of learning to control powered mobility devices should not fall entirely on the people with disabilities. Instead, the system should be able to learn the user's movements. This requires learning the degrees of freedom of user movement, and mapping these degrees of freedom onto electric-powered wheelchair (EPW) controls. Such mapping cannot be static because in some cases users will eventually improve with practice. Our goal in this paper is to present a hands-free interface (HFI) that can be customized to the varying needs of EPW users with appropriate mapping between the users' degrees of freedom and EPW controls. EPW users with different impairment types must learn how to operate a wheelchair with their residual body motions. EPW interfaces are often customized to fit their needs. An HFI utilizes the signals generated by the user's voluntary shoulder and elbow movements and translates them into an EPW control scheme. We examine the correlation of kinematics that occur during moderately paced repetitive elbow and shoulder movements for a range of motion. The output of upper-limb movements (shoulder and elbows) was tested on six participants, and compared with an output of a precision position tracking (PPT) optical system for validation. We find strong correlations between the HFI signal counts and PPT optical system during different upper-limb movements (ranged from r = 0.86 to 0.94). We also tested the HFI performance in driving the EPW in a virtual reality environment on a spinal-cord-injured (SCI) patient. The results showed that the HFI was able to adapt and translate the residual mobility of the SCI patient into efficient control commands within a week's training. The results are encouraging for the development of more efficient HFIs, especially for wheelchair users.}
+      \field{issn}{1729-8814, 1729-8814}
+      \field{journaltitle}{International Journal of Advanced Robotic Systems}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{A {Hands}-{Free} {Interface} for {Controlling} {Virtual} {Electric}-{Powered} {Wheelchairs}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{49}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5772/62028
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\7XYLNGR7\\Gulrez et al. - 2016 - A Hands-Free Interface for Controlling Virtual Ele.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.5772/62028
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.5772/62028
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

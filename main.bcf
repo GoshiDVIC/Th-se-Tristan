@@ -2182,6 +2182,53 @@
     <bcf:datasource type="file" datatype="bibtex">YOURNAME.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">van_middendorp_edwin_2010</bcf:citekey>
+    <bcf:citekey order="2">zampieri_andreas_2015</bcf:citekey>
+    <bcf:citekey order="3">noauthor_prosthesis_2023</bcf:citekey>
+    <bcf:citekey order="4">noauthor_coapt_nodate</bcf:citekey>
+    <bcf:citekey order="5">noauthor_psyonic_nodate</bcf:citekey>
+    <bcf:citekey order="6">noauthor_advanced_nodate</bcf:citekey>
+    <bcf:citekey order="7">noauthor_new_nodate</bcf:citekey>
+    <bcf:citekey order="8">interhaptics_haptics_2021</bcf:citekey>
+    <bcf:citekey order="9">noauthor_whats_nodate</bcf:citekey>
+    <bcf:citekey order="10">noauthor_skinetic_nodate</bcf:citekey>
+    <bcf:citekey order="11">service_new_nodate</bcf:citekey>
+    <bcf:citekey order="12">noauthor_mending_2020</bcf:citekey>
+    <bcf:citekey order="13">keates_effect_2005</bcf:citekey>
+    <bcf:citekey order="14">trewin_automating_2003</bcf:citekey>
+    <bcf:citekey order="15">noauthor_developing_nodate</bcf:citekey>
+    <bcf:citekey order="16">noauthor_physical_nodate</bcf:citekey>
+    <bcf:citekey order="17">noauthor_sensitive_nodate</bcf:citekey>
+    <bcf:citekey order="18">vatari_green_2016</bcf:citekey>
+    <bcf:citekey order="19">kamilaris_agri-iot_2016</bcf:citekey>
+    <bcf:citekey order="20">noauthor_les_nodate</bcf:citekey>
+    <bcf:citekey order="21">morris_ai_2020</bcf:citekey>
+    <bcf:citekey order="22">noauthor_comment_2020</bcf:citekey>
+    <bcf:citekey order="23">noauthor_complicated_nodate</bcf:citekey>
+    <bcf:citekey order="24">initiative_wai_introduction_nodate</bcf:citekey>
+    <bcf:citekey order="25">trewin_accessibility_2010</bcf:citekey>
+    <bcf:citekey order="26">noauthor_physical_nodate</bcf:citekey>
+    <bcf:citekey order="27">noauthor_exploring_nodate</bcf:citekey>
+    <bcf:citekey order="28">hanson_lancet_2022</bcf:citekey>
+    <bcf:citekey order="29">noauthor_fragility_nodate</bcf:citekey>
+    <bcf:citekey order="30">eide_assistive_2009</bcf:citekey>
+    <bcf:citekey order="31">noauthor_provision_nodate</bcf:citekey>
+    <bcf:citekey order="32">noauthor_exploring_nodate</bcf:citekey>
+    <bcf:citekey order="33">noauthor_lindicateur_nodate</bcf:citekey>
+    <bcf:citekey order="34">noauthor_are_nodate</bcf:citekey>
+    <bcf:citekey order="35">noauthor_public_nodate</bcf:citekey>
+    <bcf:citekey order="36">dia_projet_nodate</bcf:citekey>
+    <bcf:citekey order="37">noauthor_covid-19_nodate</bcf:citekey>
+    <bcf:citekey order="38">noauthor_experiences_nodate</bcf:citekey>
+    <bcf:citekey order="39">mitka_advocates_2008</bcf:citekey>
+    <bcf:citekey order="40">etter_prescription_2015</bcf:citekey>
+    <bcf:citekey order="41">ranabhat_sustainable_2023</bcf:citekey>
+    <bcf:citekey order="42">noauthor_lindicateur_nodate</bcf:citekey>
+    <bcf:citekey order="43">noauthor_who_nodate</bcf:citekey>
+    <bcf:citekey order="44">noauthor_promouvoir_nodate</bcf:citekey>
+    <bcf:citekey order="45">noauthor_access_nodate</bcf:citekey>
+    <bcf:citekey order="46">noauthor_why_nodate</bcf:citekey>
+    <bcf:citekey order="47">gulrez_hands-free_2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

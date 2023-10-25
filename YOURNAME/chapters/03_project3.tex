@@ -4,24 +4,6 @@
 \section{Related Work}
 
 \section{Evaluation}
-The device has been tested with various sensors for different applications. A typical pattern repeats: 
-
-\subsection{Setup}
-A sensor is used and placed at the user's fingertip. It is connected to a micro-controller, in this case, a Teensy. The Teensy is linked to the DRV2605 haptic controller, which controls the haptic motors. The LRA or ERM motors must be in contact with the user's skin. Choosing a relatively sensitive skin area is preferable to perceiving the vibrations better.
-
-\subsection{Protocol}
-Connect the Teensy to a power source. Launch the code corresponding to the sensor used. The software allows real-time visualization of the recorded data, which helps the user better understand the differences between the vibrations they should feel during the test.
-
-\textit{Simple Piezo Sensor}
-To measure the pressure exerted by the user with their fingers. Perform various object manipulations, handling them gently or applying more force, pushing lift different objects. Regarding texture, slide the Piezo sensor on other surfaces; it will generate additional data based on surface variations.
-
-\textit{Flexible Piezo Sensor}
-To evaluate the surface of objects and the user's environment. Slide your fingers along surfaces; as soon as they come into contact, the Piezo sensor bends and records data transmitted to the rest of the device.
-
-\textit{Sound Sensor}
-Place the sensor at the tip of your fingers and run them over different textures and surfaces. The sound your fingers produce on the material is recorded and transmitted to the controller.
-
-The sensor can be considered functional if the variations in vibrations correspond to the different actions of the user and the displayed data. Currently, the sensors that have shown the most efficiency are the Flexible Piezo types.
 
 \section{Limitations}
 It’s essential to note that this chapter serves as an introduction and may not necessarily represent a significant contribution for individuals with advanced expertise in this field. It aims to remain accessible to a broad audience, whether in innovation and technology, design and engineering, or even economic aspects. That's why it delves deeply into haptic to ensure clear understanding while keeping it simple.
