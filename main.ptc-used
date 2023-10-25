@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {2.2}Related Work}{12}{section.1.2.2}%
 \contentsline {section}{\numberline {2.3}Ethics of Accessibility}{14}{section.1.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Accessibility to Technological Innovation}{14}{subsection.1.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Accessibility to medical Innovation}{16}{subsection.1.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.2}Accessibility to Medical Innovation}{16}{subsection.1.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Accessibility to The Prosthetics Field}{19}{subsection.1.2.3.3}%
 \contentsline {section}{\numberline {2.4}Project impact}{21}{section.1.2.4}%
 \contentsline {section}{\numberline {2.5}Conclusion}{23}{section.1.2.5}%
@@ -32,11 +32,17 @@
 \contentsline {chapter}{\numberline {4}First Step into the Field of Haptic}{33}{chapter.1.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{33}{section.1.4.1}%
 \contentsline {section}{\numberline {4.2}Related Work}{33}{section.1.4.2}%
-\contentsline {section}{\numberline {4.3}Evaluation}{33}{section.1.4.3}%
-\contentsline {section}{\numberline {4.4}Limitations}{33}{section.1.4.4}%
-\contentsline {section}{\numberline {4.5}Future Works}{34}{section.1.4.5}%
-\contentsline {section}{\numberline {4.6}Conclusion}{34}{section.1.4.6}%
-\contentsline {chapter}{\numberline {5}Conclusion}{35}{chapter.1.5}%
+\contentsline {section}{\numberline {4.3}Prosthetics DIY}{33}{section.1.4.3}%
+\contentsline {section}{\numberline {4.4}Bio-Patches}{33}{section.1.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Concept}{33}{subsection.1.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Constraints}{33}{subsection.1.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Materials Used}{34}{subsection.1.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Fabrication Process}{37}{subsection.1.4.4.4}%
+\contentsline {section}{\numberline {4.5}Evaluation}{37}{section.1.4.5}%
+\contentsline {section}{\numberline {4.6}Limitations}{37}{section.1.4.6}%
+\contentsline {section}{\numberline {4.7}Future Works}{38}{section.1.4.7}%
+\contentsline {section}{\numberline {4.8}Conclusion}{38}{section.1.4.8}%
+\contentsline {chapter}{\numberline {5}Conclusion}{40}{chapter.1.5}%
 \ttl@stoptoc {partialTOC@1}
-\contentsline {chapter}{\nonumberline References}{38}{chapter*.5}%
+\contentsline {chapter}{\nonumberline References}{43}{chapter*.5}%
 \contentsfinish

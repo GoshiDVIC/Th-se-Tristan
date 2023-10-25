@@ -3,25 +3,90 @@
 
 \section{Related Work}
 
+\section{Prosthetics DIY}
+
+\section{Bio-Patches}
+\subsection{Concept}
+The goal of this chapter is simple: to provide a simple process for creating bio-patches. By exploring various materials and manufacturing techniques, this section offers a practical DIY guide for bio-patch fabrication. Each patch will consist of two distinct layers. The lower layer will directly contact the skin, while an upper layer will cover it. A haptic motor will be inserted between these two layers to prevent direct contact with the skin.
+
+\subsection{Constraints}
+The production of these bio-patches has presented several constraints:
+
+Firstly, there are mechanical constraints. These patches must withstand various mechanical forces such as pressure, stretching, and torsion. They must not tear, remain adequately flexible, and be capable of stretching to follow the movements once applied to the individual's arm. Tear resistance is a mechanical property that measures a material's ability to resist the propagation of cracks. There is no single mathematical formula to calculate this resistance because it depends on various factors, including the sample's geometry, loading conditions, the material's properties, and more.
+
+Next, there are constraints related to attaching the patch to the individual's arm. The part in contact with the skin must be adhesive enough to stay in place, while the outer layer must resist the friction caused by clothing. Friction is the force that opposes motion when one object's surface comes into contact with another. Its magnitude depends on the size of the contacting covers, textures, the forces involved, as well as the angle and position of the object.
+
+Finally, there are constraints related to manufacturing and accessibility. We seek a patch that is durable, easy to produce, made from safe materials, accessible, and cost-effective for users.
+
+Faced with all these constraints, we have carefully examined the choice of materials and developed different bio-patch recipes that could meet most of these requirements.
+
+\subsection{Materials Used}
+The choice of materials is of great importance in the design of bio-patches. Faced with our various constraints, we have compiled a list of bio-materials commonly used in the market to select the most suitable ones.
+
+As a result, we have carefully examined the choice of the following materials:
+
+\textit{Alginate}
+
+It's a natural polysaccharide mainly extracted from certain species of brown algae. It’s a biomaterial used in various fields, including regenerative medicine, food product manufacturing, and the pharmaceutical industry. Alginate is valued for its bio-compatibility, ease of use, and ability to form gels.
+\item Mechanical Strength: Alginate in gel form generally possesses moderate mechanical strength. The strength will depend on the solution's alginate concentration and the gel's quality formed. The higher the alginate concentration, the stronger the gel typically is.
+\item Flexibility and Elasticity: Alginate gels are often flexible and can be stretched without breaking. This makes them a popular choice for applications involving flexible or stretchable materials.
+\item Deformation: Alginate gels can be deformed under stress, making them suitable for applications where some deformation is desired, such as scaffolds for cell culture or flexible medical dressings.
+\item Viscosity: Alginate solutions are often viscous, facilitating their handling and use in manufacturing processes such as 3D printing.
+
+\textit{Glycerin}
+
+Or glycerol, is a thick, colorless liquid belonging to the alcohol family. It is soluble in water and exhibits high viscosity. Due to its versatile chemical and physical properties, Glycerin has wide applications in various industries, including the food, pharmaceutical, cosmetic, and chemical industries.
+\item High Viscosity: Glycerin has a relatively high viscosity, making it thick and sticky. This property makes it valuable as a thickening agent.
+\item Lubricant: Due to its viscosity, glycerin is often used as a lubricant. It can reduce friction between moving surfaces, making it a common ingredient in industrial and personal lubricants.
+\item Hygroscopic: Glycerin can absorb moisture from the air. This makes it an effective moisturizing agent in cosmetics and skin creams, as it can help maintain skin hydration and absorb sweat.
+\item Chemical Stability: Glycerin is chemically stable, making it useful as a solvent in various chemical applications.
+
+\textit{Gelatin}
+
+It's an animal-derived substance from the collagen found in animal tissues, typically bones and skin. It is widely used in the food, pharmaceutical, cosmetics, and other industries due to its gelling and thickening properties.
+\item Gelling: The most well-known property of gelatin is its ability to form solid gels when cooled after being heated in a solution.
+\item Mechanical Strength: Gelatin gels typically have mild mechanical strength. This means they can maintain their shape and structure but be relatively soft and delicate.
+\item Limited Elasticity: Gelatin gels lack elasticity compared to other gelling materials. This means they cannot be stretched or deformed significantly without breaking.
+
+\textit{Gellan}
+
+It's a natural polysaccharide produced by bacteria of the genus Sphingomonas, used as a gelling and thickening agent in the food industry and other applications. It is appreciated for its ability to form gels of varying consistency and stabilize suspensions, making it a versatile ingredient.
+
+\item Gelling: The most notable property of gellan is its ability to form gels under the influence of cations such as calcium or magnesium. Depending on ion concentration and gelation conditions, gellan gelation can range from flexible to rigid.
+
+\item Compatibility with Other Ingredients: Gellan can mix effectively with other ingredients, making it an excellent stabilizer for suspensions and emulsions. It can enhance the texture and stability of various products.
+
+\item Heat Resistance: Gellan gels can withstand relatively high temperatures without breaking down.
+
+\item pH Stability: Gellan gels generally remain stable over a wide pH range.
+
+Due to their versatility, compatibility with other materials, ease of manufacturing, and affordable cost, we have chosen to use these materials in the design of our bio-patches. It's essential to note that the mechanical properties of these materials can vary depending on parameters such as concentration and gelation conditions. By experimenting with different combinations, we can obtain bio-materials with diverse properties.
+
+\subsection{Fabrication Process}
+\textit{Bio-Materials}
+
+\textit{Bio-Patches}
+
 \section{Evaluation}
 
+
+\textit{Prostheses}
+
+\textit{Bio-Patches}
+
 \section{Limitations}
-It’s essential to note that this chapter serves as an introduction and may not necessarily represent a significant contribution for individuals with advanced expertise in this field. It aims to remain accessible to a broad audience, whether in innovation and technology, design and engineering, or even economic aspects. That's why it delves deeply into haptic to ensure clear understanding while keeping it simple.
+It's important to note that this chapter serves as an introduction and may not necessarily contribute significantly to individuals with advanced expertise in these fields. Its goal is to remain accessible to a broad audience, whether in innovation and technology, design and engineering, or even economic aspects. Therefore, it delves into depth to ensure clear understanding while keeping things simple. 
 
-\textit{Hardware}
+The prosthetics and design approaches described are preliminary prototypes. They are specifically designed for arm prosthetics and may have limitations depending on the individual's type of amputation. Access to 3D printing and materials can also be a constraint for some individuals.
 
-Currently, the prototype uses only one sensor connected to the micro-controller. The next phase, which involves placing a sensor on each finger of the prosthesis, could pose constraints in power, data reading capacity, and data output. The DRV2605 haptic motor driver controls only one ERM or LRA at a time. The overall size of the components can be excessive, limiting its use for certain prostheses and users. Additionally, the motors used are currently too bulky. The haptic effect becomes much less interesting by reducing the mass and increasing the frequency.
-
-\textit{software}
-
-The current code continuously reads data in real time, which keeps it in constant operation. The accumulation of data and some noise can slow down the entire system.
+The bio-materials, patches, and various design methods outlined in this chapter have certain limitations. Despite user-friendliness and affordability, they represent initial attempts and are not designed for long-term durability. They tend to detach and degrade quickly, requiring frequent replacements. Additionally, for optimal effectiveness, it's recommended to have the necessary equipment, including a thermal mixer, which may not be accessible to everyone. Currently, considering the use of commercially available patches is advisable.
 
 \section{Future Works}
-Innovation in Haptic is still relatively new and represents a path for improvement in engineering. As mentioned earlier, the work presented in this chapter marks a first step and opens the way for numerous potential enhancements.
+It is essential to emphasize that these fields are vast and promising for innovation. They will continue to evolve in the decades, offering numerous opportunities. As mentioned earlier, the work presented in this chapter represents a first step and paves the way for many potential improvements.
 
-From a hardware perspective, one improvement for this project is creating a printed circuit board (PCB) to reduce the space occupied by all the components. This is crucial to ensure the efficient use of prosthetics, ensuring that the entire setup is optimal in terms of distance without causing interference or adding extra constraints to the user. Given the rapid evolution in Haptic, it's also essential to stay updated on new components to determine if they might be better suited and more efficient for this project. Using a controller capable of driving multiple DRV2605 devices is worth considering.
+There is room for improvement in prosthetics by offering multiple prosthetic models better suited to different types of amputations. This involves enhancing and rethinking design approaches to make them more accessible and considering the use of new materials.
 
-There are opportunities to enhance the project on the software front by integrating new features related to the components into the code. By optimizing the code for faster and more efficient operation, it becomes possible to improve the precision of vibrations. Other features associated with the controllers can be explored to optimize the code and offer new functionalities.
+Regarding bio-patches, it is intriguing to explore the development of new bio-patches with a stronger focus on medical models, even though this requires more advanced knowledge and skills, along with higher costs. Additionally, contemplating using new materials such as kombucha presents an opportunity for improvement.
 
 \section{Conclusion}
-This chapter represents a first step towards understanding and accessing haptic technology. It explores various types of components, their functionalities, and different ways to use them. Furthermore, it offers multiple practical applications and explicit code that everyone can use. It aims to remain simple and accessible to all. The next chapter delves into prosthetics and presents different prototypes for integrating the haptic components introduced in this chapter.
+This chapter represents the first step towards creating a DIY kit to enhance prosthetics. It provides essential knowledge in the fields of prosthetics and bio-patches. Through 3D modeling and printing, it becomes possible to integrate the various haptic components discussed in the previous chapter into existing prosthetics. Several concepts and prototypes are presented. Furthermore, this chapter explores the creation of affordable and replicable bio-patches accessible to everyone, along with information on testing and results. It also offers insights into manufacturing techniques and material selection for prosthetics and bio-patches.
