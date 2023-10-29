@@ -2229,6 +2229,35 @@
     <bcf:citekey order="45">noauthor_access_nodate</bcf:citekey>
     <bcf:citekey order="46">noauthor_why_nodate</bcf:citekey>
     <bcf:citekey order="47">gulrez_hands-free_2016</bcf:citekey>
+    <bcf:citekey order="48">jimenez_biography_2009</bcf:citekey>
+    <bcf:citekey order="49">ramstein_combining_1996</bcf:citekey>
+    <bcf:citekey order="50">noauthor_brailleband_nodate</bcf:citekey>
+    <bcf:citekey order="51">escobar-castillejos_review_2016</bcf:citekey>
+    <bcf:citekey order="52">van_baelen_evaluation_2019</bcf:citekey>
+    <bcf:citekey order="53">noauthor_haptic_2023</bcf:citekey>
+    <bcf:citekey order="54">saddik_haptics_2012</bcf:citekey>
+    <bcf:citekey order="55">soderstrom_haptic_2022</bcf:citekey>
+    <bcf:citekey order="56">admin_haptx_2021</bcf:citekey>
+    <bcf:citekey order="57">noauthor_nokia_2023</bcf:citekey>
+    <bcf:citekey order="58">noauthor_good_2023</bcf:citekey>
+    <bcf:citekey order="59">heo_pseudobend_2019</bcf:citekey>
+    <bcf:citekey order="60">degraen_weirding_2021</bcf:citekey>
+    <bcf:citekey order="61">noauthor_syntacts_nodate</bcf:citekey>
+    <bcf:citekey order="62">strohmeier_sketching_2020</bcf:citekey>
+    <bcf:citekey order="63">wittchen_tactjam_2022</bcf:citekey>
+    <bcf:citekey order="64">noauthor_novel_nodate</bcf:citekey>
+    <bcf:citekey order="65">muridan_texture_2010</bcf:citekey>
+    <bcf:citekey order="66">minamizawa_simplified_2010</bcf:citekey>
+    <bcf:citekey order="67">leleve_haptic_2020</bcf:citekey>
+    <bcf:citekey order="68">noauthor_role_nodate</bcf:citekey>
+    <bcf:citekey order="69">willis_virtual_2014</bcf:citekey>
+    <bcf:citekey order="70">correa_haptic_2019</bcf:citekey>
+    <bcf:citekey order="71">escobar-castillejos_review_2016-1</bcf:citekey>
+    <bcf:citekey order="72">singapogu_perspective_2014</bcf:citekey>
+    <bcf:citekey order="73">kunkler_role_2006</bcf:citekey>
+    <bcf:citekey order="74">noauthor_haptic_nodate</bcf:citekey>
+    <bcf:citekey order="75">noauthor_pilot_nodate</bcf:citekey>
+    <bcf:citekey order="76">vaucelle_design_2009</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

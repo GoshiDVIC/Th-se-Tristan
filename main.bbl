@@ -1491,6 +1491,1412 @@
       \verb http://journals.sagepub.com/doi/10.5772/62028
       \endverb
     \endentry
+    \entry{jimenez_biography_2009}{article}{}
+      \name{author}{6}{}{%
+        {{hash=64a15995a9f37df30032bd4e526ac6ac}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f064f9b8e74a43e91384835e513d5993}{%
+           family={Olea},
+           familyi={O\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dea3456e5177346fdd01545db276f797}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f32ee31ee8436fa0fe6594699c08af69}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Inmaculada},
+           giveni={I\bibinitperiod}}}%
+        {{hash=94f6a0e0ac289ef0ae499abd9437280d}{%
+           family={Harder},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0bd749b79d87771e669f2062dd3845ce}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Konstanze},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9bf892ffe0837593fcf2998f681c0d62}
+      \strng{fullhash}{2604bebb1272049a0f143348c36355f5}
+      \strng{bibnamehash}{9bf892ffe0837593fcf2998f681c0d62}
+      \strng{authorbibnamehash}{9bf892ffe0837593fcf2998f681c0d62}
+      \strng{authornamehash}{9bf892ffe0837593fcf2998f681c0d62}
+      \strng{authorfullhash}{2604bebb1272049a0f143348c36355f5}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00396257}
+      \field{journaltitle}{Survey of Ophthalmology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Biography of {Louis} {Braille} and {Invention} of the {Braille} {Alphabet}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{54}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{142\bibrangedash 149}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.survophthal.2008.10.006
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039625708001860
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039625708001860
+      \endverb
+    \endentry
+    \entry{ramstein_combining_1996}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=629c51efb4b9a54bfbc2b77d671a6f21}{%
+           family={Ramstein},
+           familyi={R\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Vancouver, British Columbia, Canada}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \strng{fullhash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \strng{bibnamehash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \strng{authorbibnamehash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \strng{authornamehash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \strng{authorfullhash}{629c51efb4b9a54bfbc2b77d671a6f21}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Proceedings of the second annual {ACM} conference on {Assistive} technologies - {Assets} '96}
+      \field{isbn}{978-0-89791-776-6}
+      \field{shorttitle}{Combining haptic and braille technologies}
+      \field{title}{Combining haptic and braille technologies: design issues and pilot study}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \field{pages}{37\bibrangedash 44}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/228347.228355
+      \endverb
+      \verb{urlraw}
+      \verb http://portal.acm.org/citation.cfm?doid=228347.228355
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/citation.cfm?doid=228347.228355
+      \endverb
+    \endentry
+    \entry{noauthor_brailleband_nodate}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{title}{{BrailleBand}: {Blind} support haptic wearable band for communication using braille language | {IEEE} {Conference} {Publication} | {IEEE} {Xplore}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8122806
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8122806
+      \endverb
+    \endentry
+    \entry{escobar-castillejos_review_2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5740f3ca9d5534916734bf0f8dd0d5d1}{%
+           family={Escobar-Castillejos},
+           familyi={E\bibinithyphendelim C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6cca5d90a9993f2fb221f2c212872576}{%
+           family={Noguez},
+           familyi={N\bibinitperiod},
+           given={Julieta},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85a60623607318bd158f8dd99cee97f3}{%
+           family={Neri},
+           familyi={N\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1314247cd2b4e2e08c436aec7f188306}{%
+           family={Magana},
+           familyi={M\bibinitperiod},
+           given={Alejandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2c1666b95d0d145f88398b62f00aede5}{%
+           family={Benes},
+           familyi={B\bibinitperiod},
+           given={Bedrich},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{784555324667d782f43815d301436974}
+      \strng{fullhash}{5b22ce1bb0d803fcda15695cb4931560}
+      \strng{bibnamehash}{784555324667d782f43815d301436974}
+      \strng{authorbibnamehash}{784555324667d782f43815d301436974}
+      \strng{authornamehash}{784555324667d782f43815d301436974}
+      \strng{authorfullhash}{5b22ce1bb0d803fcda15695cb4931560}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0148-5598, 1573-689X}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{A {Review} of {Simulators} with {Haptic} {Devices} for {Medical} {Training}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{104}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10916-016-0459-8
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10916-016-0459-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10916-016-0459-8
+      \endverb
+    \endentry
+    \entry{van_baelen_evaluation_2019}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=8433d669976c551570932d90a1699433}{%
+           family={Van\bibnamedelima Baelen},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=56366204c57d12a8481b3f8f052fe5b1}{%
+           family={Ellerbroek},
+           familyi={E\bibinitperiod},
+           given={Joost},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d57d5b636cd6fd714027aa89959cf51c}{%
+           family={Van\bibnamedelima Paassen},
+           familyi={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Marinus\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3cca3505a413de9fee9403760d152ccd}{%
+           family={Mulder},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {San Diego, California}%
+      }
+      \list{publisher}{2}{%
+        {American Institute of Aeronautics}%
+        {Astronautics}%
+      }
+      \strng{namehash}{d31a9fb424a16c7882e9702c20ac88f2}
+      \strng{fullhash}{15f468cfe7aa152b165eb5e2063defea}
+      \strng{bibnamehash}{d31a9fb424a16c7882e9702c20ac88f2}
+      \strng{authorbibnamehash}{d31a9fb424a16c7882e9702c20ac88f2}
+      \strng{authornamehash}{d31a9fb424a16c7882e9702c20ac88f2}
+      \strng{authorfullhash}{15f468cfe7aa152b165eb5e2063defea}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{AIAA} {Scitech} 2019 {Forum}}
+      \field{isbn}{978-1-62410-578-4}
+      \field{month}{1}
+      \field{title}{Evaluation of a {Haptic} {Feedback} {System} for {Flight} {Envelope} {Protection}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2514/6.2019-0367
+      \endverb
+      \verb{urlraw}
+      \verb https://arc.aiaa.org/doi/10.2514/6.2019-0367
+      \endverb
+      \verb{url}
+      \verb https://arc.aiaa.org/doi/10.2514/6.2019-0367
+      \endverb
+    \endentry
+    \entry{noauthor_haptic_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Haptic technology (also kinaesthetic communication or 3D touch) is technology that can create an experience of touch by applying forces, vibrations, or motions to the user. These technologies can be used to create virtual objects in a computer simulation, to control virtual objects, and to enhance remote control of machines and devices (telerobotics). Haptic devices may incorporate tactile sensors that measure forces exerted by the user on the interface. The word haptic, from the Greek: ἁπτικός (haptikos), means "tactile, pertaining to the sense of touch". Simple haptic devices are common in the form of game controllers, joysticks, and steering wheels. Haptic technology facilitates investigation of how the human sense of touch works by allowing the creation of controlled haptic virtual objects. Most researchers distinguish three sensory systems related to sense of touch in humans: cutaneous, kinaesthetic and haptic. All perceptions mediated by cutaneous and kinaesthetic sensibility are referred to as tactual perception. The sense of touch may be classified as passive and active, and the term "haptic" is often associated with active touch to communicate or recognize objects.}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{10}
+      \field{note}{Page Version ID: 1181358147}
+      \field{title}{Haptic technology}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Haptic_technology&oldid=1181358147
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Haptic_technology&oldid=1181358147
+      \endverb
+    \endentry
+    \entry{saddik_haptics_2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=972f5a5cfd01358677ecbb3b44dfbfb5}{%
+           family={Saddik},
+           familyi={S\bibinitperiod},
+           given={Abdulmotaleb\bibnamedelima El},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {BoD – Books on Demand}%
+      }
+      \strng{namehash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \strng{fullhash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \strng{bibnamehash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \strng{authorbibnamehash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \strng{authornamehash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \strng{authorfullhash}{972f5a5cfd01358677ecbb3b44dfbfb5}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There has been significant progress in haptic technologies but the incorporation of haptics into virtual environments is still in its infancy. A wide range of the new society's human activities including communication, education, art, entertainment, commerce and science would forever change if we learned how to capture, manipulate and reproduce haptic sensory stimuli that are nearly indistinguishable from reality. For the field to move forward, many commercial and technological barriers need to be overcome. By rendering how objects feel through haptic technology, we communicate information that might reflect a desire to speak a physically- based language that has never been explored before. Due to constant improvement in haptics technology and increasing levels of research into and development of haptics-related algorithms, protocols and devices, there is a belief that haptics technology has a promising future.}
+      \field{isbn}{978-953-307-897-7}
+      \field{month}{1}
+      \field{note}{Google-Books-ID: zYqfDwAAQBAJ}
+      \field{title}{Haptics {Rendering} and {Applications}}
+      \field{year}{2012}
+      \keyw{Computers / Computer Simulation,Computers / General}
+    \endentry
+    \entry{soderstrom_haptic_2022}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=7f53c00bc1d29ade01182b1c0738df34}{%
+           family={SöDerströM},
+           familyi={S\bibinitperiod},
+           given={Ulrik},
+           giveni={U\bibinitperiod}}}%
+        {{hash=381753e5b7b9403bc7fcb9aad73b0a4e}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=db90edf25637fbcaebcb87d7c88d83c8}{%
+           family={Lundqvist},
+           familyi={L\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=890f1801ba156fa03fee250e56676dec}{%
+           family={Norberg},
+           familyi={N\bibinitperiod},
+           given={Ole},
+           giveni={O\bibinitperiod}}}%
+        {{hash=71e7444021652c51fbc19a304fa4d042}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Mattias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=08fe4b6523d33876f1759b8b0e853640}{%
+           family={Mejtoft},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{b9d0da8973b218b79d75c59097138c00}
+      \strng{fullhash}{a204701d40296f259487696ae290e2b9}
+      \strng{bibnamehash}{b9d0da8973b218b79d75c59097138c00}
+      \strng{authorbibnamehash}{b9d0da8973b218b79d75c59097138c00}
+      \strng{authornamehash}{b9d0da8973b218b79d75c59097138c00}
+      \strng{authorfullhash}{a204701d40296f259487696ae290e2b9}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Immersion has become an important factor for video games. This study investigates the effect that haptic feedback has on the perceived immersion of the player in two different setups; one with haptic feedback in the game controller and one with feedback in a haptic vest. Both experiments consisted of a user test, followed by answering a questionnaire. The results show tendencies of haptic feedback both increasing and inhibiting the ability to feel immersed by certain metrics, even if the statistical analysis shows no significant difference between the groups in any of the sub-scales. The results also show that most of the test subjects thinks that the vest and its’ haptic feedback delivers more immersion to the gaming experience. The conclusion that can be drawn from both experiments is that haptic feedback improves the user feeling of immersion, more specifically regarding the players awareness of the surroundings in the game.}
+      \field{booktitle}{Proceedings of the 33rd {European} {Conference} on {Cognitive} {Ergonomics}}
+      \field{isbn}{978-1-4503-9808-4}
+      \field{month}{10}
+      \field{series}{{ECCE} '22}
+      \field{title}{Haptic feedback in first person shooter video games}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/3552327.3552333
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\tjour\\Zotero\\storage\\QKDK3K24\\SöDerströM et al. - 2022 - Haptic feedback in first person shooter video game.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3552327.3552333
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3552327.3552333
+      \endverb
+      \keyw{Awareness,First person shooter,Haptic feedback,Immersion,Realism}
+    \endentry
+    \entry{admin_haptx_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b2d399b75b3b55d9633e8db8afeed320}{%
+           family={Admin},
+           familyi={A\bibinitperiod},
+           given={HaptX},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{b2d399b75b3b55d9633e8db8afeed320}
+      \strng{fullhash}{b2d399b75b3b55d9633e8db8afeed320}
+      \strng{bibnamehash}{b2d399b75b3b55d9633e8db8afeed320}
+      \strng{authorbibnamehash}{b2d399b75b3b55d9633e8db8afeed320}
+      \strng{authornamehash}{b2d399b75b3b55d9633e8db8afeed320}
+      \strng{authorfullhash}{b2d399b75b3b55d9633e8db8afeed320}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HaptX}
+      \field{month}{1}
+      \field{title}{{HaptX} launches {HaptX} {Gloves} {DK2} to bring true-contact haptics to {VR} and robotics}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://haptx.com/dk2-release/
+      \endverb
+      \verb{url}
+      \verb https://haptx.com/dk2-release/
+      \endverb
+    \endentry
+    \entry{noauthor_nokia_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nokia 5800 XpressMusic is a smartphone part of the XpressMusic line, announced by Nokia on 2 October 2008 in London and started shipping in November of that year. Code-named "Tube", it was the first touchscreen-equipped S60 device by Nokia – essentially it was the first device to run Symbian{\textasciicircum}1, also known as S60 5th Edition, the touch-specific S60-based platform created by the Symbian Foundation. The touchscreen features tactile feedback (though it does not use Nokia's Haptikos technology).Nokia 5800 XpressMusic has a 3.2-inch display with a resolution of 640x360 pixels, and has many features standard to the Nokia Nseries, such as GPS, HSDPA and Wi-Fi support. It was a highly anticipated device in 2008 and went on to become a commercial success with 8 million units sold a year after release. It was praised for its supplied stylus and low price, but was viewed negatively by critics for its camera and software issues.}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{8}
+      \field{note}{Page Version ID: 1171315817}
+      \field{title}{Nokia 5800 {XpressMusic}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\XEU39ZUV\\Nokia_5800_XpressMusic.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Nokia_5800_XpressMusic&oldid=1171315817
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Nokia_5800_XpressMusic&oldid=1171315817
+      \endverb
+    \endentry
+    \entry{noauthor_good_2023}{misc}{}
+      \list{language}{1}{%
+        {fr}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In its endless quest to produce an iPhone that has even fewer physical features than the last, Apple made its iconic home button virtual in 2016…}
+      \field{journaltitle}{iFixit}
+      \field{month}{10}
+      \field{shorttitle}{Good {Vibrations}}
+      \field{title}{Good {Vibrations}: {How} {Apple} {Dominates} the {Touch} {Feedback} {Game} | {iFixit} {News}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://fr.ifixit.com/News/16768/apple-taptic-engine-haptic-feedback
+      \endverb
+      \verb{url}
+      \verb https://fr.ifixit.com/News/16768/apple-taptic-engine-haptic-feedback
+      \endverb
+    \endentry
+    \entry{heo_pseudobend_2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=84247a49bb892469660e1c602f4c3acc}{%
+           family={Heo},
+           familyi={H\bibinitperiod},
+           given={Seongkook},
+           giveni={S\bibinitperiod}}}%
+        {{hash=14a0c23cbb4a2c712b4380126aff3783}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jaeyeon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1d167c2e159bbe494e59e21a3fb2dbb}{%
+           family={Wigdor},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New Orleans LA USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{2658a0aeec34135864e6536c8d6e7553}
+      \strng{fullhash}{2658a0aeec34135864e6536c8d6e7553}
+      \strng{bibnamehash}{2658a0aeec34135864e6536c8d6e7553}
+      \strng{authorbibnamehash}{2658a0aeec34135864e6536c8d6e7553}
+      \strng{authornamehash}{2658a0aeec34135864e6536c8d6e7553}
+      \strng{authorfullhash}{2658a0aeec34135864e6536c8d6e7553}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Proceedings of the 32nd {Annual} {ACM} {Symposium} on {User} {Interface} {Software} and {Technology}}
+      \field{isbn}{978-1-4503-6816-2}
+      \field{month}{10}
+      \field{shorttitle}{{PseudoBend}}
+      \field{title}{{PseudoBend}: {Producing} {Haptic} {Illusions} of {Stretching}, {Bending}, and {Twisting} {Using} {Grain} {Vibrations}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{803\bibrangedash 813}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/3332165.3347941
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3332165.3347941
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3332165.3347941
+      \endverb
+    \endentry
+    \entry{degraen_weirding_2021}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=28b8dc2125f162cfcf13306467a36edb}{%
+           family={Degraen},
+           familyi={D\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=458f03118e8189287ca12513c9c85f62}{%
+           family={Fruchard},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=725822d04c0dc45ec722e755287c4d1e}{%
+           family={Smolders},
+           familyi={S\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=716ddbb2eb08d977b06269b7f113130c}{%
+           family={Potetsianakis},
+           familyi={P\bibinitperiod},
+           given={Emmanouil},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9b502075c29cb4b9f1087cbf91337a06}{%
+           family={Güngör},
+           familyi={G\bibinitperiod},
+           given={Seref},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1145bf8ba22928da0cce95645e3af6a4}{%
+           family={Krüger},
+           familyi={K\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f038b75144c12e2e8371bca6c59faa3b}{%
+           family={Steimle},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{004c7e42fae23d70dfe74c42dead15f0}
+      \strng{fullhash}{e89cd7e9c6855ad9b72daba90466e67d}
+      \strng{bibnamehash}{004c7e42fae23d70dfe74c42dead15f0}
+      \strng{authorbibnamehash}{004c7e42fae23d70dfe74c42dead15f0}
+      \strng{authornamehash}{004c7e42fae23d70dfe74c42dead15f0}
+      \strng{authorfullhash}{e89cd7e9c6855ad9b72daba90466e67d}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Effective haptic feedback in virtual reality (VR) is an essential element for creating convincing immersive experiences. To design such feedback, state-of-the-art VR setups provide APIs for programmatically generating controller vibration patterns. While tools for designing vibrotactile feedback keep evolving, they often require expert knowledge and rarely support direct manipulation methods for mapping feedback to user interactions within the VR environment. To address these challenges, we contribute a novel concept called Weirding Haptics, that supports fast-prototyping by leveraging the user’s voice to design such feedback while manipulating virtual objects in-situ. Through a pilot study (N = 9) focusing on how tactile experiences are vocalized during object manipulation, we identify spatio-temporal mappings and supporting features needed to produce intended vocalizations. To study our concept, we built a VR design tool informed by the results of the pilot study. This tool enables users to design tactile experiences using their voice while manipulating objects, provides a set of modifiers for fine-tuning the created experiences in VR, and allows to rapidly compare various experiences by feeling them. Results from a validation study (N = 8) show that novice hapticians can vocalize experiences and refine their designs with the fine-tuning modifiers to match their intentions. We conclude our work by discussing uncovered design implications for direct manipulation and vocalization of vibrotactile feedback in immersive virtual environments.}
+      \field{booktitle}{The 34th {Annual} {ACM} {Symposium} on {User} {Interface} {Software} and {Technology}}
+      \field{isbn}{978-1-4503-8635-7}
+      \field{month}{10}
+      \field{series}{{UIST} '21}
+      \field{shorttitle}{Weirding {Haptics}}
+      \field{title}{Weirding {Haptics}: {In}-{Situ} {Prototyping} of {Vibrotactile} {Feedback} in {Virtual} {Reality} through {Vocalization}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{936\bibrangedash 953}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1145/3472749.3474797
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\tjour\\Zotero\\storage\\HTFXHLNQ\\Degraen et al. - 2021 - Weirding Haptics In-Situ Prototyping of Vibrotact.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3472749.3474797
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3472749.3474797
+      \endverb
+      \keyw{design tool,direct manipulation,Haptic design,vibrotactile feedback,virtual reality,vocalization,voice input}
+    \endentry
+    \entry{noauthor_syntacts_nodate}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{As vibrotactile feedback systems become increasingly commonplace, their application scenarios are becoming more complex. In this article, we present a method of vibrotactor control that accommodates emerging design requirements, namely large vibrotactor arrays that are capable of displaying complex waveforms. Our approach is based on control through digital audio interfaces. We describe a new open-source software and hardware package, Syntacts, that lowers the technical barrier to rendering vibrations with audio. We also present a tutorial on common control schemes with a discussion of their advantages and shortcomings. Our software is purpose-built to control arrays of vibrotactors with extremely low latency. In addition, Syntacts includes means to synthesize and sequence cues, and spatialize them on tactile arrays. The Syntacts Amplifier integrates with the audio hardware to provide high-quality analog signals to the tactors without adding excess noise to the system. Finally, we present results from a benchmarking study with Syntacts compared to commercially available systems.}
+      \field{shorttitle}{Syntacts}
+      \field{title}{Syntacts: {Open}-{Source} {Software} and {Hardware} for {Audio}-{Controlled} {Haptics}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\6XUBEVRF\\9117187.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9117187
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9117187
+      \endverb
+    \endentry
+    \entry{strohmeier_sketching_2020}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=6c214c1bfc5f9ea937752664d21976b4}{%
+           family={Strohmeier},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c73ee43d7c86793353922cfd7f0b1e20}{%
+           family={Pourjafarian},
+           familyi={P\bibinitperiod},
+           given={Narjes},
+           giveni={N\bibinitperiod}}}%
+        {{hash=57b1c69f1c3828ebe07fe82765e3c5c1}{%
+           family={Koelle},
+           familyi={K\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+        {{hash=093f8e54c6e98ac769621eebb6761fc6}{%
+           family={Honnet},
+           familyi={H\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=458f03118e8189287ca12513c9c85f62}{%
+           family={Fruchard},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f038b75144c12e2e8371bca6c59faa3b}{%
+           family={Steimle},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Kaiserslautern Germany}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{2b51f566aa276291c7a5d810c497d41b}
+      \strng{fullhash}{378955534b5df182eaa21b8fec3ab7d6}
+      \strng{bibnamehash}{2b51f566aa276291c7a5d810c497d41b}
+      \strng{authorbibnamehash}{2b51f566aa276291c7a5d810c497d41b}
+      \strng{authornamehash}{2b51f566aa276291c7a5d810c497d41b}
+      \strng{authorfullhash}{378955534b5df182eaa21b8fec3ab7d6}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {Augmented} {Humans} {International} {Conference}}
+      \field{isbn}{978-1-4503-7603-7}
+      \field{month}{3}
+      \field{title}{Sketching {On}-{Body} {Interactions} using {Piezo}-{Resistive} {Kinesiology} {Tape}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/3384657.3384774
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\8YP85GHU\\Strohmeier et al. - 2020 - Sketching On-Body Interactions using Piezo-Resisti.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3384657.3384774
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3384657.3384774
+      \endverb
+    \endentry
+    \entry{wittchen_tactjam_2022}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=da64e1c33d02339d3817674f229b7845}{%
+           family={Wittchen},
+           familyi={W\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=42885e59bde0d00b7d70b179596b4cb5}{%
+           family={Spiel},
+           familyi={S\bibinitperiod},
+           given={Katta},
+           giveni={K\bibinitperiod}}}%
+        {{hash=458f03118e8189287ca12513c9c85f62}{%
+           family={Fruchard},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=28b8dc2125f162cfcf13306467a36edb}{%
+           family={Degraen},
+           familyi={D\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ed396f481904597242a372ca123e2062}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=093d980a2867a286c04f265a0bb252e9}{%
+           family={Freitag},
+           familyi={F\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6c214c1bfc5f9ea937752664d21976b4}{%
+           family={Strohmeier},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{d07fa9581286909f1a356ebbd8549b0f}
+      \strng{fullhash}{418dcc69bd5baf8bfad1e86e67bef2e5}
+      \strng{bibnamehash}{d07fa9581286909f1a356ebbd8549b0f}
+      \strng{authorbibnamehash}{d07fa9581286909f1a356ebbd8549b0f}
+      \strng{authornamehash}{d07fa9581286909f1a356ebbd8549b0f}
+      \strng{authorfullhash}{418dcc69bd5baf8bfad1e86e67bef2e5}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We present TactJam, an end-to-end suite for creating and sharing low fidelity prototypes of on-body vibrotactile feedback. With TactJam, designers can create, record and share vibrotactile patterns online. This opens up new ways of collaboratively designing vibrotactile patterns both in collocated as well as in remote settings. We evaluate TactJam in a two-part distributed online workshop, exploring the design of on-body tactons. Participants were able to successfully use TactJam to learn about tacton design. We present an overview of mappings between tactons and their associated concepts before comparing the results of tactons created using solely a GUI and tactons created through experimenting with placements directly on the body. Conducting both parts of the workshop separately highlighted the importance of designing directly with bodies: less implicit assumptions were made, and designs were guided by personal experience. We reflect on these results and close on deliberations for the future development of TactJam.}
+      \field{booktitle}{Sixteenth {International} {Conference} on {Tangible}, {Embedded}, and {Embodied} {Interaction}}
+      \field{isbn}{978-1-4503-9147-4}
+      \field{month}{2}
+      \field{series}{{TEI} '22}
+      \field{shorttitle}{{TactJam}}
+      \field{title}{{TactJam}: {An} {End}-to-{End} {Prototyping} {Suite} for {Collaborative} {Design} of {On}-{Body} {Vibrotactile} {Feedback}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3490149.3501307
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\tjour\\Zotero\\storage\\AEM4RDSM\\Wittchen et al. - 2022 - TactJam An End-to-End Prototyping Suite for Colla.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3490149.3501307
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3490149.3501307
+      \endverb
+      \keyw{collaborative sketching,embodied design,embodied interaction,on-body design,tactile feedback,tactile prototyping,tactons,vibrotactile feedback}
+    \endentry
+    \entry{noauthor_novel_nodate}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ability to mimic the tactile feedback exhibited by the human hand in an artificial limb is considered advantageous in the automatic control of new multifunctional prosthetic hands. The role of a slip sensor in this tactile feedback is to detect object slip and thus provide information to a controller, which automatically adjusts the grip force applied to a held object to prevent it from falling. This system reduces the cognitive load experienced by the user by not having to visually assess the stability of an object, as well as giving them the confidence not to apply unnecessarily excessive grip forces. A candidate for such a sensor is a thick-film piezoelectric sensor. The method of fabricating a thick-film piezoelectric slip sensor on a prototype fingertip is described. The construction of experimental apparatus to mimic slip has been designed and analyzed to allow the coefficient of friction between the fingertip and the material in contact with the fingertip to be calculated. Finally, results show that for a coefficient of friction between the fingertip and grade P100 sandpaper of approximately 0.3, an object velocity of 0.025plusmn0.008 ms <sup xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">-1</sup> was reached before a slip signal from the piezoelectric sensor was able to be used to detect slip. It is anticipated that this limiting velocity will be lowered (improved) in the intended application where the sensor electronics will be powered from a battery, connections will be appropriately screened, and if necessary a filter employed. This will remove mains interference and reduce other extraneous noise sources with the consequence of an improved signal-to-noise ratio, allowing lower threshold values to be used in the detection software}
+      \field{title}{A {Novel} {Thick}-{Film} {Piezoelectric} {Slip} {Sensor} for a {Prosthetic} {Hand}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\tjour\\Zotero\\storage\\LX63VH7S\\4154666.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/4154666
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/4154666
+      \endverb
+    \endentry
+    \entry{muridan_texture_2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bc84a59329350ede040cd26f1f2cb901}{%
+           family={Muridan},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=54f54fe0ab0c9e41c06250de5fbbc682}{%
+           family={Chappell},
+           familyi={C\bibinitperiod},
+           given={P.H.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d9e9cd1128fd4fbd5ece1f9a3cb5e47a}{%
+           family={Cranny},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0abed528b2fa13488ae2d3bc7ec1bcd7}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={N.M.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{73a85d6b4ccd8d6200ef303023b38a91}
+      \strng{fullhash}{15e91d20a3a0ba5778bb7064171fcc76}
+      \strng{bibnamehash}{73a85d6b4ccd8d6200ef303023b38a91}
+      \strng{authorbibnamehash}{73a85d6b4ccd8d6200ef303023b38a91}
+      \strng{authornamehash}{73a85d6b4ccd8d6200ef303023b38a91}
+      \strng{authorfullhash}{15e91d20a3a0ba5778bb7064171fcc76}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18777058}
+      \field{journaltitle}{Procedia Engineering}
+      \field{title}{Texture sensor for a prosthetic hand}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{605\bibrangedash 608}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.proeng.2010.09.182
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1877705810007290
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1877705810007290
+      \endverb
+    \endentry
+    \entry{minamizawa_simplified_2010}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3c91b1794b55d0a4303d5b8f6ccd1142}{%
+           family={Minamizawa},
+           familyi={M\bibinitperiod},
+           given={Kouta},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b809e251b95f1e16cd648e509299e7b1}{%
+           family={Prattichizzo},
+           familyi={P\bibinitperiod},
+           given={Domenico},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7e503ccca58443d8c973aeb451dbc817}{%
+           family={Tachi},
+           familyi={T\bibinitperiod},
+           given={Susumu},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e6b10f0193cef67c6f8541179953f78}
+      \strng{fullhash}{9e6b10f0193cef67c6f8541179953f78}
+      \strng{bibnamehash}{9e6b10f0193cef67c6f8541179953f78}
+      \strng{authorbibnamehash}{9e6b10f0193cef67c6f8541179953f78}
+      \strng{authornamehash}{9e6b10f0193cef67c6f8541179953f78}
+      \strng{authorfullhash}{9e6b10f0193cef67c6f8541179953f78}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For designing a simple and more realistic haptic feedback system, we propose integrating an underactuated mechanism with one-point kinesthetic feedback from the arm with multipoint tactile feedback. By focusing on the division of roles between the cutaneous sensation in fingers and the proprioception in the arm. We have implemented a prototype system that provides kinesthetic feedback to the arm and tactile feedback to the fingers, examined the difference of weight recognition according to the applied point of kinesthetic feedback, and confirmed the effectiveness of the proposed method.}
+      \field{booktitle}{2010 {IEEE} {Haptics} {Symposium}}
+      \field{month}{3}
+      \field{note}{ISSN: 2324-7355}
+      \field{title}{Simplified design of haptic display by extending one-point kinesthetic feedback to multipoint tactile feedback}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{257\bibrangedash 260}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/HAPTIC.2010.5444646
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:C\:\\Users\\tjour\\Zotero\\storage\\F2IECS5Q\\5444646.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/5444646
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/5444646
+      \endverb
+    \endentry
+    \entry{leleve_haptic_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6871553775974ab90bb3e8645b1f25af}{%
+           family={Lelevé},
+           familyi={L\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28db57cde1da8ab820786dcf81dfb0a9}{%
+           family={McDaniel},
+           familyi={M\bibinitperiod},
+           given={Troy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c66df44a6478565f7506066ec330f429}{%
+           family={Rossa},
+           familyi={R\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{10192dd85b33bea085aad79dd769eded}
+      \strng{fullhash}{10192dd85b33bea085aad79dd769eded}
+      \strng{bibnamehash}{10192dd85b33bea085aad79dd769eded}
+      \strng{authorbibnamehash}{10192dd85b33bea085aad79dd769eded}
+      \strng{authornamehash}{10192dd85b33bea085aad79dd769eded}
+      \strng{authorfullhash}{10192dd85b33bea085aad79dd769eded}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2673-4192}
+      \field{journaltitle}{Frontiers in Virtual Reality}
+      \field{month}{7}
+      \field{title}{Haptic {Training} {Simulation}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/frvir.2020.00003
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\M8QUZIYJ\\Lelevé et al. - 2020 - Haptic Training Simulation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/frvir.2020.00003/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/frvir.2020.00003/full
+      \endverb
+    \endentry
+    \entry{noauthor_role_nodate}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Role} of {Haptics} in {Medical} {Training} {Simulators}: {A} {Survey} of the {State} of the {Art} | {IEEE} {Journals} \& {Magazine} | {IEEE} {Xplore}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/5453367
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/5453367
+      \endverb
+    \endentry
+    \entry{willis_virtual_2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=89b567f52dbc431657ac6b84fd270955}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Ross\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=af8e53b1b00d771792831c37b707e7f4}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Pedro\bibnamedelima Pablo},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=90f1f1fcb0a14b6464004dc97c7a9e61}{%
+           family={Ivatury},
+           familyi={I\bibinitperiod},
+           given={Srinivas\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d8a8e568090c1588f9a00e7829aecd55}{%
+           family={Mitra},
+           familyi={M\bibinitperiod},
+           given={Hari\bibnamedelima S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5bfcc9fb03e17ba505704089c0ce6fea}{%
+           family={Van\bibnamedelima Sickle},
+           familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Kent\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
+      \strng{fullhash}{fba478a9e9b0fdd5489ccd0a7a7a123a}
+      \strng{bibnamehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
+      \strng{authorbibnamehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
+      \strng{authornamehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
+      \strng{authorfullhash}{fba478a9e9b0fdd5489ccd0a7a7a123a}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{19317204}
+      \field{journaltitle}{Journal of Surgical Education}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Virtual {Reality} {Simulators}}
+      \field{title}{Virtual {Reality} {Simulators}: {Valuable} {Surgical} {Skills} {Trainers} or {Video} {Games}?}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{71}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{426\bibrangedash 433}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jsurg.2013.11.003
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1931720413002869
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1931720413002869
+      \endverb
+    \endentry
+    \entry{correa_haptic_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3c84db6c6a07b87e07828f60f57cc1bc}{%
+           family={Corrêa},
+           familyi={C\bibinitperiod},
+           given={Cléber\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5caae549428e46ac38a6f2e58771b255}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={Fátima\bibnamedelima L.S.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d9f9204ac7769c55416afde8b1b2a8a4}{%
+           family={Ranzini},
+           familyi={R\bibinitperiod},
+           given={Edith},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6d4e3621517d3856cf793e377c223fd7}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=230fd58f91c2f0ca5dcf7c8dd2b99a38}{%
+           family={Tori},
+           familyi={T\bibinitperiod},
+           given={Romero},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0dbcec774bc2b404d9c1b5b78895027c}
+      \strng{fullhash}{702d53ed1c39ded7764eafc3a7beb07e}
+      \strng{bibnamehash}{0dbcec774bc2b404d9c1b5b78895027c}
+      \strng{authorbibnamehash}{0dbcec774bc2b404d9c1b5b78895027c}
+      \strng{authornamehash}{0dbcec774bc2b404d9c1b5b78895027c}
+      \strng{authorfullhash}{702d53ed1c39ded7764eafc3a7beb07e}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{13504533}
+      \field{journaltitle}{Medical Engineering \& Physics}
+      \field{month}{1}
+      \field{shorttitle}{Haptic interaction for needle insertion training in medical applications}
+      \field{title}{Haptic interaction for needle insertion training in medical applications: {The} state-of-the-art}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{63}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{6\bibrangedash 25}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.medengphy.2018.11.002
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135045331830167X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135045331830167X
+      \endverb
+    \endentry
+    \entry{escobar-castillejos_review_2016-1}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5740f3ca9d5534916734bf0f8dd0d5d1}{%
+           family={Escobar-Castillejos},
+           familyi={E\bibinithyphendelim C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6cca5d90a9993f2fb221f2c212872576}{%
+           family={Noguez},
+           familyi={N\bibinitperiod},
+           given={Julieta},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85a60623607318bd158f8dd99cee97f3}{%
+           family={Neri},
+           familyi={N\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1314247cd2b4e2e08c436aec7f188306}{%
+           family={Magana},
+           familyi={M\bibinitperiod},
+           given={Alejandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2c1666b95d0d145f88398b62f00aede5}{%
+           family={Benes},
+           familyi={B\bibinitperiod},
+           given={Bedrich},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{784555324667d782f43815d301436974}
+      \strng{fullhash}{5b22ce1bb0d803fcda15695cb4931560}
+      \strng{bibnamehash}{784555324667d782f43815d301436974}
+      \strng{authorbibnamehash}{784555324667d782f43815d301436974}
+      \strng{authornamehash}{784555324667d782f43815d301436974}
+      \strng{authorfullhash}{5b22ce1bb0d803fcda15695cb4931560}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0148-5598, 1573-689X}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{A {Review} of {Simulators} with {Haptic} {Devices} for {Medical} {Training}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{104}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10916-016-0459-8
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10916-016-0459-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10916-016-0459-8
+      \endverb
+    \endentry
+    \entry{singapogu_perspective_2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2f7d39b6327af067f64f3cae540b5726}{%
+           family={Singapogu},
+           familyi={S\bibinitperiod},
+           given={Ravikiran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0edf433fd20c13ecd688ba39e7e8569e}{%
+           family={Burg},
+           familyi={B\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=847ae8c06281b1272d9fc35ef5c3d15c}{%
+           family={Burg},
+           familyi={B\bibinitperiod},
+           given={Karen\bibnamedelimb J.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8e5278cb002487ba1b9380ac6b8b1490}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Dane\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=94f3dae9581ff1b3686e6f801074bfa5}{%
+           family={Eckenrode},
+           familyi={E\bibinitperiod},
+           given={Amanda\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{d2934e7b296a34689e364d3a2ec94f83}
+      \strng{fullhash}{6b82a01606b87dcfe246709ea2800f73}
+      \strng{bibnamehash}{d2934e7b296a34689e364d3a2ec94f83}
+      \strng{authorbibnamehash}{d2934e7b296a34689e364d3a2ec94f83}
+      \strng{authornamehash}{d2934e7b296a34689e364d3a2ec94f83}
+      \strng{authorfullhash}{6b82a01606b87dcfe246709ea2800f73}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Laparoscopic surgery is a minimally invasive surgical technique with significant potential benefits to the patient, including shorter recovery time, less scarr...}
+      \field{issn}{0278-940X, 1943-619X}
+      \field{journaltitle}{Critical Reviews\&trade; in Biomedical Engineering}
+      \field{note}{Publisher: Begel House Inc.}
+      \field{number}{3-4}
+      \field{title}{A {Perspective} on the {Role} and {Utility} of {Haptic} {Feedback} in {Laparoscopic} {Skills} {Training}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1615/CritRevBiomedEng.2014011701
+      \endverb
+      \verb{urlraw}
+      \verb https://www.dl.begellhouse.com/journals/4b27cbfc562e21b8,4103b71326f54ce4,131fe9a813e1b610.html
+      \endverb
+      \verb{url}
+      \verb https://www.dl.begellhouse.com/journals/4b27cbfc562e21b8,4103b71326f54ce4,131fe9a813e1b610.html
+      \endverb
+    \endentry
+    \entry{kunkler_role_2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=564e6bf0615a90216a9f0adec6456fc4}{%
+           family={Kunkler},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{564e6bf0615a90216a9f0adec6456fc4}
+      \strng{fullhash}{564e6bf0615a90216a9f0adec6456fc4}
+      \strng{bibnamehash}{564e6bf0615a90216a9f0adec6456fc4}
+      \strng{authorbibnamehash}{564e6bf0615a90216a9f0adec6456fc4}
+      \strng{authornamehash}{564e6bf0615a90216a9f0adec6456fc4}
+      \strng{authorfullhash}{564e6bf0615a90216a9f0adec6456fc4}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1478-5951, 1478-596X}
+      \field{journaltitle}{The International Journal of Medical Robotics and Computer Assisted Surgery}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{The role of medical simulation}
+      \field{title}{The role of medical simulation: an overview}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{2}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{203\bibrangedash 210}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/rcs.101
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\BT269DHJ\\Kunkler - 2006 - The role of medical simulation an overview.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/rcs.101
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/rcs.101
+      \endverb
+    \endentry
+    \entry{noauthor_haptic_nodate}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Haptic system for hand rehabilitation integrating an interactive game with an advanced robotic device | {IEEE} {Conference} {Publication} | {IEEE} {Xplore}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/5444615
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/5444615
+      \endverb
+    \endentry
+    \entry{noauthor_pilot_nodate}{misc}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lower-limb amputation, whether by trauma or complication of another condition, affects more than 800,000 people in the United States alone. These patient groups typically suffer from decreased mobility and an increased incidence of injury due to fall, even with the application of prosthetic limbs. A haptic feedback system prototype was previously developed to provide augmentative sensory information to patients suffering from total or attenuated lower-limb sensory loss. By providing tactile cues to the user based on plantar pressure distributions, it is hoped that this system can improve rehabilitation and functional outcomes following lower-limb injury. This paper presents an updated system that was fitted to the residual limb of a below-knee amputee, as well as a pilot study using the device. The pilot study demonstrated that the amputee could accurately perceive various tactile stimuli with high accuracy (Gt 87.5\%), therefore indicating that the approach is feasible.}
+      \field{title}{Pilot testing of a haptic feedback rehabilitation system on a lower-limb amputee}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/4906637/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/4906637/
+      \endverb
+    \endentry
+    \entry{vaucelle_design_2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e664dbc9bf12f1c94712427199b03b08}{%
+           family={Vaucelle},
+           familyi={V\bibinitperiod},
+           given={Cati},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4337e39615e8648722e4259d4b66e5e0}{%
+           family={Bonanni},
+           familyi={B\bibinitperiod},
+           given={Leonardo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f9477c2d8165fba57b180a69748ccead}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Boston MA USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \strng{fullhash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \strng{bibnamehash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \strng{authorbibnamehash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \strng{authornamehash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \strng{authorfullhash}{885715fa29079c8b0fb8fcddbd0dd4f3}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}
+      \field{isbn}{978-1-60558-246-7}
+      \field{month}{4}
+      \field{title}{Design of haptic interfaces for therapy}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{467\bibrangedash 470}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/1518701.1518776
+      \endverb
+      \verb{file}
+      \verb Texte intégral:C\:\\Users\\tjour\\Zotero\\storage\\UL9JEWVD\\Vaucelle et al. - 2009 - Design of haptic interfaces for therapy.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518776
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518776
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
