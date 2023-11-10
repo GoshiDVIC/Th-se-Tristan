@@ -103,8 +103,8 @@
       \strng{authorbibnamehash}{0f4f546112986fc5fb86f2740c29b902}
       \strng{authornamehash}{0f4f546112986fc5fb86f2740c29b902}
       \strng{authorfullhash}{331d0d6041aab26a5fc3a0968015fe75}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{2305-7823}
@@ -138,8 +138,8 @@
       \list{language}{1}{%
         {en}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labeltitlesource}{title}
       \field{abstract}{In medicine, a prosthesis (PL: prostheses; from Ancient Greek: πρόσθεσις, romanized: prósthesis, lit. 'addition, application, attachment'), or a prosthetic implant, is an artificial device that replaces a missing body part, which may be lost through trauma, disease, or a condition present at birth (congenital disorder). Prostheses are intended to restore the normal functions of the missing body part. Amputee rehabilitation is primarily coordinated by a physiatrist as part of an inter-disciplinary team consisting of physiatrists, prosthetists, nurses, physical therapists, and occupational therapists. Prostheses can be created by hand or with computer-aided design (CAD), a software interface that helps creators design and analyze the creation with computer-generated 2-D and 3-D graphics as well as analysis and optimization tools.}
       \field{journaltitle}{Wikipedia}
@@ -162,8 +162,8 @@
       \endverb
     \endentry
     \entry{noauthor_coapt_nodate}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{title}
       \field{abstract}{Coapt’s Complete Control myoelectric control technology makes upper-limb prosthetics feel more natural and intuitive. Click here to learn more.}
       \field{journaltitle}{Coapt Myo Pattern Recognition}
@@ -186,8 +186,8 @@
       \list{language}{1}{%
         {en-US}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PSYONIC}
       \field{title}{{PSYONIC}}
@@ -206,8 +206,8 @@
       \endverb
     \endentry
     \entry{noauthor_advanced_nodate}{misc}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{labeltitlesource}{title}
       \field{title}{Advanced {Prosthetics} {Made} {Accessible}: {How} {PSYONIC} {Developed} a {Bionic} {Hand} {Using} {Additive} {Manufacturing} | {Formlabs}}
       \field{urlday}{24}
@@ -225,8 +225,8 @@
       \endverb
     \endentry
     \entry{noauthor_new_nodate}{misc}{}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labeltitlesource}{title}
       \field{title}{New advances for haptic rendering: state of the art | {SpringerLink}}
       \field{urlday}{24}
@@ -258,8 +258,8 @@
       \strng{authorbibnamehash}{1c2ffefda48cda1c413613ffff15d7c1}
       \strng{authornamehash}{1c2ffefda48cda1c413613ffff15d7c1}
       \strng{authorfullhash}{1c2ffefda48cda1c413613ffff15d7c1}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The haptics market is growing very fast and is one of the most promising among the new technologies. However, the user experience hasn’t…}
@@ -283,8 +283,8 @@
       \endverb
     \endentry
     \entry{noauthor_whats_nodate}{misc}{}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labeltitlesource}{title}
       \field{abstract}{With its new console, Sony has taken the lead in terms of gaming experience thanks to the haptic technologies integrated into its controller. We decided to do a deep-dive analysis of the DualSense controller haptics within the Playstation 5 ecosystem. This article focus on a teardown of the controller and an analysis of the tactile technologies integrated in.}
       \field{title}{What’s under the hood of the {DualSense}?}
@@ -559,8 +559,8 @@
       \strng{authorbibnamehash}{9d01739694346fe59acf861a827c0b03}
       \strng{authornamehash}{9d01739694346fe59acf861a827c0b03}
       \strng{authorfullhash}{9d01739694346fe59acf861a827c0b03}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Thereare many techniques available for the precision agriculture to monitor and control, environment for the growth of many crops. Due to unequal distribution of rain water, it is very difficult to requirement needed farmer to manage the water equally to all the crops in whole farm it requires some irrigation method that suitable for any weather condition, soil types and variety of crops. Green House is the best solution to control and mange all this problem It is more important to search a method that gives perfect analyzation and controlling to develop proper environment. Large areas covered by sensor network this can establish greenhouse with precision environment required for different crops. This environment builds up by using two technologies it and cloud computing. By using IOT(Internet on things) we control devices or any environmental needs anytime, anywhere and the cloud which provides storage and computing resources to implement a web page.}
@@ -613,8 +613,8 @@
       \strng{authorbibnamehash}{77c4a23614e916bd4e67f76a3e39d26f}
       \strng{authornamehash}{77c4a23614e916bd4e67f76a3e39d26f}
       \strng{authorfullhash}{bb48f234f6a76c4ce7a6bd9563efa765}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{With the recent advancement of the Internet of Things (IoT), it is now possible to process a large number of sensor data streams using different large-scale IoT platforms. These IoT frameworks are used to collect, process and analyse data streams in real-time and facilitate provision of smart solutions designed to provide decision support. Existing IoT-based solutions are mainly domain-dependent, providing stream processing and analytics focusing on specific areas (smart cities, healthcare etc.). In the context of agri-food industry, a variety of external parameters belonging to different domains (e.g. weather conditions, regulations etc.) have a major influence over the food supply chain, while flexible and adaptive IoT frameworks, essential to truly realize the concept of smart farming, are currently inexistent. In this paper, we propose Agri-IoT, a semantic framework for IoT-based smart farming applications, which supports reasoning over various heterogeneous sensor data streams in real-time. Agri-IoT can integrate multiple cross-domain data streams, providing a complete semantic processing pipeline, offering a common framework for smart farming applications. Agri-IoT supports large-scale data analytics and event detection, ensuring seamless interoperability among sensors, services, processes, operations, farmers and other relevant actors, including online information sources and linked open datasets and streams available on the Web.}
@@ -989,8 +989,8 @@
       \strng{authorbibnamehash}{3d278a8eec38500b932d7521881c8832}
       \strng{authornamehash}{3d278a8eec38500b932d7521881c8832}
       \strng{authorfullhash}{93c7474d11d1e7f3b587b0ed480a4929}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The {Lancet} {Global} {Health} {Commissions}}
@@ -1001,8 +1001,8 @@
       \endverb
     \endentry
     \entry{noauthor_fragility_nodate}{misc}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labeltitlesource}{title}
       \field{title}{The {Fragility} of {Legitimacy}: {Access} to {Health} {Care} in {Manantali}, {Mali} | {SpringerLink}}
       \field{urlday}{25}
@@ -1176,8 +1176,8 @@
       \endverb
     \endentry
     \entry{noauthor_covid-19_nodate}{misc}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labeltitlesource}{title}
       \field{title}{{COVID}-19, {IP} and access: {Will} the current system of medical innovation and access to medicines meet global expectations? - {Olga} {Gurgula}, {Wen} {H} {Lee}, 2021}
       \field{urlday}{25}
@@ -1192,8 +1192,8 @@
       \endverb
     \endentry
     \entry{noauthor_experiences_nodate}{misc}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labeltitlesource}{title}
       \field{title}{Experiences of providing prosthetic and orthotic services in {Sierra} {Leone} – the local staff’s perspective: {Disability} and {Rehabilitation}: {Vol} 34, {No} 24}
       \field{urlday}{25}
@@ -1224,8 +1224,8 @@
       \strng{authorbibnamehash}{02d74d461a8eb34b3f118975c19b9adf}
       \strng{authornamehash}{02d74d461a8eb34b3f118975c19b9adf}
       \strng{authorfullhash}{02d74d461a8eb34b3f118975c19b9adf}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1538-3598}
@@ -1460,8 +1460,8 @@
       \strng{authorbibnamehash}{828908cfb347fb8820c786a8bd788260}
       \strng{authornamehash}{828908cfb347fb8820c786a8bd788260}
       \strng{authorfullhash}{90b5755a3d9d810f43340cf80d3ca22f}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper focuses on how to provide mobility to people with motor impairments with the integration of robotics and wearable computing systems. The burden of learning to control powered mobility devices should not fall entirely on the people with disabilities. Instead, the system should be able to learn the user's movements. This requires learning the degrees of freedom of user movement, and mapping these degrees of freedom onto electric-powered wheelchair (EPW) controls. Such mapping cannot be static because in some cases users will eventually improve with practice. Our goal in this paper is to present a hands-free interface (HFI) that can be customized to the varying needs of EPW users with appropriate mapping between the users' degrees of freedom and EPW controls. EPW users with different impairment types must learn how to operate a wheelchair with their residual body motions. EPW interfaces are often customized to fit their needs. An HFI utilizes the signals generated by the user's voluntary shoulder and elbow movements and translates them into an EPW control scheme. We examine the correlation of kinematics that occur during moderately paced repetitive elbow and shoulder movements for a range of motion. The output of upper-limb movements (shoulder and elbows) was tested on six participants, and compared with an output of a precision position tracking (PPT) optical system for validation. We find strong correlations between the HFI signal counts and PPT optical system during different upper-limb movements (ranged from r = 0.86 to 0.94). We also tested the HFI performance in driving the EPW in a virtual reality environment on a spinal-cord-injured (SCI) patient. The results showed that the HFI was able to adapt and translate the residual mobility of the SCI patient into efficient control commands within a week's training. The results are encouraging for the development of more efficient HFIs, especially for wheelchair users.}
@@ -1533,8 +1533,8 @@
       \strng{authorbibnamehash}{9bf892ffe0837593fcf2998f681c0d62}
       \strng{authornamehash}{9bf892ffe0837593fcf2998f681c0d62}
       \strng{authorfullhash}{2604bebb1272049a0f143348c36355f5}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00396257}
@@ -1583,8 +1583,8 @@
       \strng{authorbibnamehash}{629c51efb4b9a54bfbc2b77d671a6f21}
       \strng{authornamehash}{629c51efb4b9a54bfbc2b77d671a6f21}
       \strng{authorfullhash}{629c51efb4b9a54bfbc2b77d671a6f21}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Proceedings of the second annual {ACM} conference on {Assistive} technologies - {Assets} '96}
@@ -1923,8 +1923,8 @@
       \list{language}{1}{%
         {en}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{title}
       \field{abstract}{Nokia 5800 XpressMusic is a smartphone part of the XpressMusic line, announced by Nokia on 2 October 2008 in London and started shipping in November of that year. Code-named "Tube", it was the first touchscreen-equipped S60 device by Nokia – essentially it was the first device to run Symbian{\textasciicircum}1, also known as S60 5th Edition, the touch-specific S60-based platform created by the Symbian Foundation. The touchscreen features tactile feedback (though it does not use Nokia's Haptikos technology).Nokia 5800 XpressMusic has a 3.2-inch display with a resolution of 640x360 pixels, and has many features standard to the Nokia Nseries, such as GPS, HSDPA and Wi-Fi support. It was a highly anticipated device in 2008 and went on to become a commercial success with 8 million units sold a year after release. It was praised for its supplied stylus and low price, but was viewed negatively by critics for its camera and software issues.}
       \field{journaltitle}{Wikipedia}
@@ -1950,8 +1950,8 @@
       \list{language}{1}{%
         {fr}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In its endless quest to produce an iPhone that has even fewer physical features than the last, Apple made its iconic home button virtual in 2016…}
       \field{journaltitle}{iFixit}
@@ -2003,8 +2003,8 @@
       \strng{authorbibnamehash}{2658a0aeec34135864e6536c8d6e7553}
       \strng{authornamehash}{2658a0aeec34135864e6536c8d6e7553}
       \strng{authorfullhash}{2658a0aeec34135864e6536c8d6e7553}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Proceedings of the 32nd {Annual} {ACM} {Symposium} on {User} {Interface} {Software} and {Technology}}
@@ -2450,8 +2450,8 @@
       \strng{authorbibnamehash}{10192dd85b33bea085aad79dd769eded}
       \strng{authornamehash}{10192dd85b33bea085aad79dd769eded}
       \strng{authorfullhash}{10192dd85b33bea085aad79dd769eded}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2673-4192}
@@ -2480,8 +2480,8 @@
       \endverb
     \endentry
     \entry{noauthor_role_nodate}{misc}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labeltitlesource}{title}
       \field{title}{The {Role} of {Haptics} in {Medical} {Training} {Simulators}: {A} {Survey} of the {State} of the {Art} | {IEEE} {Journals} \& {Magazine} | {IEEE} {Xplore}}
       \field{urlday}{26}
@@ -2532,8 +2532,8 @@
       \strng{authorbibnamehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
       \strng{authornamehash}{ab4f2d9e2a73ecb2ce1ac522320005f4}
       \strng{authorfullhash}{fba478a9e9b0fdd5489ccd0a7a7a123a}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{19317204}

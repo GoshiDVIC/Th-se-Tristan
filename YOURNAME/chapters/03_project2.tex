@@ -2,9 +2,6 @@
 \section{Introduction}
 The field of Haptic has emerged as a central area of research and innovation in a constantly evolving technological landscape. While human-machine interaction is at the heart of technological development, the sense of touch has often been overlooked. In contrast, significant attention has been given to enhancing visual and auditory interfaces, neglecting the tactile modality. Derived from the Greek "haptikos," meaning "capable of touching or grasping," haptic is the study of tactile perception and the simulation of touch through technology. This multidisciplinary field combines engineering, psychology, neuroscience, and human-computer interaction elements to create experiences that engage our sense of touch, thereby enriching how we interact with the environment and digital devices.
 
-%citation 1 image @misc{noauthor_what_nodate,
-	
-
 Touch is an integral part of human perception and communication, crucial in conveying emotions, texture, and spatial information. This is the case for blind individuals who primarily rely on their senses of hearing and touch to understand the world. They use touch to discern objects, navigate, or even read using Braille language \cite{jimenez_biography_2009}. Furthermore, technological innovations based on the sense of touch and haptic are being developed to assist blind individuals \cite{ramstein_combining_1996}\cite{noauthor_brailleband_nodate}. It enables us to comprehend the world around us and interact with it.
 
 Aware of this, researchers and engineers strive to harness haptic to bridge the gap between the physical and digital realms.
@@ -14,9 +11,6 @@ One of the earliest applications of haptic technology was in early 20th-century 
 
 The first force feedback game controllers were commercialized in the 1990s, introducing haptic motors into video game controllers, such as with the Nintendo 64 in 1997. These controllers let players feel vibrations corresponding to in-game events, enhancing the gaming experience. The Oculus Rift virtual reality headset, launched in 2013, marked a significant milestone in integrating haptic technology into virtual reality experiences. It revitalized interest in haptic in the video gaming domain \cite{saddik_haptics_2012}\cite{soderstrom_haptic_2022}. It was followed by other virtual reality devices with improved haptic capabilities, such as the HaptX haptic gloves \cite{admin_haptx_2021}.
 
-%citation 8 image @misc{noauthor_rumble_2023,
-
-%citation 14 image noauthor_oculus_2023
 
 The 2000s saw the emergence of the first mobile phones equipped with haptic feedback. For example, the Nokia 5800 XpressMusic (2008) provided tactile feedback when using the touchscreen \cite{noauthor_nokia_2023}. This was just the initial step in mobile haptic, as it did not allow users to customize the haptic feedback. Currently, haptic feedback is integrated into all our phones, with Apple's Taptic Engine being one of the most prominent \cite{noauthor_good_2023}.
 
@@ -43,7 +37,33 @@ On the other hand, patients can benefit from rehabilitation through haptic-based
 Despite the wide range of applications and processes, all these techniques remain complex for inexperienced users. They either require the use of expensive hardware, the modification and design of machinery, or extensive knowledge in other fields, such as electronics. The project presented in this chapter does not require advanced electronics or programming knowledge, uses simple and affordable components, and allows for an autonomous prototype.
 
 \section{Concept}
-The idea of this chapter is simple: to provide a kit of haptic components for designing various haptic enhancements for prosthetics. Sensors are positioned at the fingertips of a prosthetic device. When the user performs actions, these sensors record data such as applied pressure, object shape, or textures. This data is then processed using various micro-controllers, such as the DRV2605 or Teensy. Subsequently, it is transmitted to a haptic motor that vibrates based on the received information. This haptic motor is in direct contact with the user, allowing them to perceive and receive real-time tactile feedback corresponding to their action.
+We present a kit of haptic components for designing various haptic enhancements for prosthetics. Sensors are positioned at the fingertips of a prosthetic device. When the user performs actions, these sensors record data such as applied pressure, object shape, or textures. This data is then processed using various microcontrollers, such as the DRV2605 or Teensy. Subsequently, it is transmitted to a haptic motor that vibrates based on the received information. This haptic motor is in direct contact with the user, allowing them to perceive and receive real-time tactile feedback corresponding to their action.
+
+\section{Hardware}
+\subsection{Microcontrôleur}
+
+\textit{DRV205}
+\textit{Teensy}
+
+\subsection{Moteur haptique}
+\textit{LRA}
+\textit{ERM}
+
+\subsection{Sensors}
+\textit{Simple piezo}
+\textit{Flexible Piezo}
+\textit{Sound Sensor}
+
+\section{Dispositif }
+
+\section{Software Development }
+\subsection{Technical Specifications}
+
+The Teensy and DRV2605 are programmed in C++ and are compatible with the Arduino platform. The use of the C language is also possible. Usage libraries are available and provide standard methods for their use. Regarding the DRV2605, numerous examples are provided, covering scenarios from simple vibrations to real-time feedback. Additionally, a wide range of instructions and libraries is available on the website https://www.pjrc.com/teensy/ dedicated to Teensy. This site offers comprehensive resources, including information on using Teensy in the audio domain, which benefits from a unique interface.
+ 
+\subsection{Objectives}
+
+\subsection{Implementation}
 
 \section{Evaluation}
 The device has been tested with various sensors for different applications. A typical pattern repeats: 
